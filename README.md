@@ -29,7 +29,7 @@ Collection of awesome vim9script plugins. This means legacy vimscript plugins ar
 | --- | --- | --- |
 | vim-dir | [🔗](https://github.com/habamax/vim-dir) | ✅ |
 
-## File Manager
+## Command Execution
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
