@@ -28,3 +28,11 @@ Collection of awesome vim9script plugins. This means legacy vimscript plugins ar
 | Name | URL | Maintained |
 | --- | --- | --- |
 | vim-dir | [🔗](https://github.com/habamax/vim-dir) | ✅ |
+
+## File Manager
+
+**[`^        back to top        ^`](#awesome-vim9)**
+
+| Name | URL | Maintained |
+| --- | --- | --- |
+| vim-shout | [🔗](https://github.com/habamax/vim-shout) | ✅ |
