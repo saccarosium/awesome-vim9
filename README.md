@@ -8,7 +8,7 @@ Collection of awesome vim9script plugins. This means legacy vimscript plugins ar
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Repo | URL | Maintained |
+| Name | URL | Maintained |
 | --- | --- | --- |
 | yegappan/lsp | [🔗](https://github.com/yegappan/lsp/tree/main) | ✅ |
 
@@ -16,7 +16,15 @@ Collection of awesome vim9script plugins. This means legacy vimscript plugins ar
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Repo | URL | Maintained |
+| Name | URL | Maintained |
 | --- | --- | --- |
 | vimcomplete | [🔗](https://github.com/girishji/vimcomplete) | ✅ |
 | autosuggest.vim | [🔗](https://github.com/girishji/autosuggest.vim) | ✅ |
+
+## File Manager
+
+**[`^        back to top        ^`](#awesome-vim9)**
+
+| Name | URL | Maintained |
+| --- | --- | --- |
+| vim-dir | [🔗](https://github.com/habamax/vim-dir) | ✅ |
