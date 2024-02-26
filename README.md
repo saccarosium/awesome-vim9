@@ -94,6 +94,7 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 | --- | --- | --- | --- |
 | vim-devel | [🔗](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development | ✅ |
 | vim-colortemplate | [🔗](https://github.com/lifepillar/vim-colortemplate/tree/v3) | The Toolkit for Vim Color Scheme Designers! | ✅ |
+| vim-autograd | [🔗](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ✅ |
 
 ## Miscellaneous
 
