@@ -69,6 +69,9 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 | Name | URL | Description | Maintained |
 | --- | --- | --- | --- |
 | vim-conda-activate | [🔗](https://github.com/ubaldot/vim-conda-activate) | Activate Conda environments in Vim. | ✅ |
+| vim-bazel.vim | [🔗](https://github.com/noscript/bazel.vim) | Bazel integration for Vim | ✅ |
+
+
 ## Language Server Protocol
 
 **[`^        back to top        ^`](#awesome-vim9)**
