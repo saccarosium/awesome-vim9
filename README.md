@@ -16,6 +16,7 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 * [Completion](#completion)
 * [File Management](#file-managment)
 * [Fuzzy Finding](#fuzzy-finding)
+* [Integrations](#integrations)
 * [Language Server Protocol](#language-server-protocol)
 * [Miscellaneous](#miscellaneous)
 * [Motion](#motion)
@@ -61,6 +62,13 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 | fuzzyy | [🔗](https://github.com/Donaldttt/fuzzyy) | A fuzzy finder plugin for vim | ✅ |
 | minifuzzy.vim | [🔗](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ✅ |
 
+## Integrations
+
+**[`^        back to top        ^`](#awesome-vim9)**
+
+| Name | URL | Description | Maintained |
+| --- | --- | --- | --- |
+| vim-conda-activate | [🔗](https://github.com/ubaldot/vim-conda-activate) | Activate Conda environments in Vim. | ✅ |
 ## Language Server Protocol
 
 **[`^        back to top        ^`](#awesome-vim9)**
