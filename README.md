@@ -130,3 +130,4 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 | --- | --- | --- | --- |
 | vim-qf-preview | [🔗](https://github.com/bfrg/vim-qf-preview) | Preview the quickfix item under the cursor in a popup window | ❎ |
 | vim-qf-diagnostics | [🔗](https://github.com/bfrg/vim-qf-diagnostics) | Highlight quickfix errors, and display error messages as virtual text or in a popup window | ✅ |
+| vim-qf-history | [🔗](https://github.com/bfrg/vim-qf-history) | Navigate Vim's quickfix and location-list history using a popup menu | ✅ |
