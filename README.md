@@ -17,6 +17,7 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 * [File Management](#file-managment)
 * [Fuzzy Finding](#fuzzy-finding)
 * [Language Server Protocol](#language-server-protocol)
+* [Miscellaneous](#miscellaneous)
 * [Motion](#motion)
 * [Plugin Management](#plugin-managment)
 
@@ -68,6 +69,12 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 | --- | --- | --- | --- |
 | yegappan/lsp | [🔗](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ✅ |
 | creativenull/vim-lspclient | [🔗](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ❎ |
+
+## Miscellaneous
+
+| Name | URL | Description | Maintained |
+| --- | --- | --- | --- |
+| vim-ii | [🔗](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ✅ |
 
 ## Motion
 
