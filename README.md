@@ -18,6 +18,7 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 * [Fuzzy Finding](#fuzzy-finding)
 * [Integrations](#integrations)
 * [Language Server Protocol](#language-server-protocol)
+* [Libraries](#libraries)
 * [Miscellaneous](#miscellaneous)
 * [Motion](#motion)
 * [Plugin Management](#plugin-managment)
@@ -82,6 +83,14 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 | --- | --- | --- | --- |
 | yegappan/lsp | [🔗](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ✅ |
 | creativenull/vim-lspclient | [🔗](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ❎ |
+
+## Libraries
+
+**[`^        back to top        ^`](#awesome-vim9)**
+
+| Name | URL | Description | Maintained |
+| --- | --- | --- | --- |
+| vim-devel | [🔗](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development | ✅ |
 
 ## Miscellaneous
 
