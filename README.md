@@ -22,6 +22,8 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 * [Miscellaneous](#miscellaneous)
 * [Motion](#motion)
 * [Plugin Management](#plugin-managment)
+* [UI](#ui)
+  * [Quickfix](#quickfix)
 
 ---
 
@@ -117,3 +119,13 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 | Name | URL | Description | Maintained |
 | --- | --- | --- | --- |
 | plugpac.vim | [🔗](https://github.com/bennyyip/plugpac.vim) | Plugpac is a plugin manger written in Vim9 based on minpac, provides vim-plug-like experience | ✅ |
+
+## UI
+
+### Quickfix
+
+**[`^        back to top        ^`](#awesome-vim9)**
+
+| Name | URL | Description | Maintained |
+| --- | --- | --- | --- |
+| vim-qf-preview | [🔗](https://github.com/bfrg/vim-qf-preview) | Preview the quickfix item under the cursor in a popup window | ❎ |
