@@ -124,6 +124,12 @@ Welcome to Awesome Vim9, a community-driven list of useful vim9script powered pl
 
 ## UI
 
+**[`^        back to top        ^`](#awesome-vim9)**
+
+| Name | URL | Description | Maintained |
+| --- | --- | --- | --- |
+| vim-popped | [🔗](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ✅ |
+
 ### Quickfix
 
 **[`^        back to top        ^`](#awesome-vim9)**
