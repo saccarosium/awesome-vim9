@@ -6,7 +6,7 @@
 
 Welcome to Awesome Vim9, a community-driven list of useful vim9script powered plugins, utilities, and libraries. Legacy vimscript plugins are not listed here. 
 
-<!-- TODO: To submit a new plugin read [CONTRIBUTE.md](./CONTRIBUTE.md) -->
+To submit a new plugin read [CONTRIB.md](./CONTRIB.md) first.
 
 </div>
 
