@@ -37,113 +37,113 @@ To submit a new plugin read [CONTRIB.md](./CONTRIB.md) first.
 
 | Name | URL | Description | Maintained |
 | --- | --- | --- | --- |
-| vim-shout | [🔗](https://github.com/habamax/vim-shout) | Run and Capture Shell Command Output in Vim | ✅ |
+| [vim-shout](https://github.com/habamax/vim-shout) | Run and Capture Shell Command Output in Vim | ✅ |
 
 ## Completion
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| vimcomplete | [🔗](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ✅ |
-| autosuggest.vim | [🔗](https://github.com/girishji/autosuggest.vim) | Autocompletion for Vim's cmdline mode. | ✅ |
-| vim-camelcomplete | [🔗](https://github.com/jessepav/vim-camelcomplete) | Vim 9 plugin to complete CamelCase, snake_case and dash-words identifier abbreviations. | ✅ |
-| vim-wispath | [🔗](https://github.com/mityu/vim-wispath) | A path completion script written in Vim9 script. | ✅ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ✅ |
+| [autosuggest.vim](https://github.com/girishji/autosuggest.vim) | Autocompletion for Vim's cmdline mode. | ✅ |
+| [vim-camelcomplete](https://github.com/jessepav/vim-camelcomplete) | Vim 9 plugin to complete CamelCase, snake_case and dash-words identifier abbreviations. | ✅ |
+| [vim-wispath](https://github.com/mityu/vim-wispath) | A path completion script written in Vim9 script. | ✅ |
 
 ## File Management
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| vim-dir | [🔗](https://github.com/habamax/vim-dir) | Vim file manager | ✅ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ✅ |
 
 ## Fuzzy Finding
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| fuzzyy | [🔗](https://github.com/Donaldttt/fuzzyy) | A fuzzy finder plugin for vim | ✅ |
-| minifuzzy.vim | [🔗](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ✅ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [fuzzyy](https://github.com/Donaldttt/fuzzyy) | A fuzzy finder plugin for vim | ✅ |
+| [minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ✅ |
 
 ## Integrations
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| vim-conda-activate | [🔗](https://github.com/ubaldot/vim-conda-activate) | Activate Conda environments in Vim. | ✅ |
-| vim-bazel.vim | [🔗](https://github.com/noscript/bazel.vim) | Bazel integration for Vim | ✅ |
-| vim-cmake-help | [🔗](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ❎ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [vim-conda-activate](https://github.com/ubaldot/vim-conda-activate) | Activate Conda environments in Vim. | ✅ |
+| [vim-bazel.vim](https://github.com/noscript/bazel.vim) | Bazel integration for Vim | ✅ |
+| [vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ❎ |
 
 
 ## Language Server Protocol
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| yegappan/lsp | [🔗](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ✅ |
-| creativenull/vim-lspclient | [🔗](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ❎ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ✅ |
+| [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ❎ |
 
 ## Libraries
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| vim-devel | [🔗](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development | ✅ |
-| vim-colortemplate | [🔗](https://github.com/lifepillar/vim-colortemplate/tree/v3) | The Toolkit for Vim Color Scheme Designers! | ✅ |
-| vim-autograd | [🔗](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ✅ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [vim-devel](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development | ✅ |
+| [vim-colortemplate](https://github.com/lifepillar/vim-colortemplate/tree/v3) | The Toolkit for Vim Color Scheme Designers! | ✅ |
+| [vim-autograd](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ✅ |
 
 ## Miscellaneous
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| vim-ii | [🔗](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ✅ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [vim-ii](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ✅ |
 
 ## Motion
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| vim9-stargate | [🔗](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 |  ✅ |
-| easyjump.vim | [🔗](https://github.com/girishji/easyjump.vim) | The Vim motion you've always wanted. | ✅ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 |  ✅ |
+| [easyjump.vim](https://github.com/girishji/easyjump.vim) | The Vim motion you've always wanted. | ✅ |
 
 ## Plugin Management
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| plugpac.vim | [🔗](https://github.com/bennyyip/plugpac.vim) | Plugpac is a plugin manger written in Vim9 based on minpac, provides vim-plug-like experience | ✅ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [plugpac.vim](https://github.com/bennyyip/plugpac.vim) | Plugpac is a plugin manger written in Vim9 based on minpac, provides vim-plug-like experience | ✅ |
 
 ## UI
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| vim-popped | [🔗](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ✅ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ✅ |
 
 ### Quickfix
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| vim-qf-preview | [🔗](https://github.com/bfrg/vim-qf-preview) | Preview the quickfix item under the cursor in a popup window | ❎ |
-| vim-qf-diagnostics | [🔗](https://github.com/bfrg/vim-qf-diagnostics) | Highlight quickfix errors, and display error messages as virtual text or in a popup window | ✅ |
-| vim-qf-history | [🔗](https://github.com/bfrg/vim-qf-history) | Navigate Vim's quickfix and location-list history using a popup menu | ✅ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [vim-qf-preview](https://github.com/bfrg/vim-qf-preview) | Preview the quickfix item under the cursor in a popup window | ❎ |
+| [vim-qf-diagnostics](https://github.com/bfrg/vim-qf-diagnostics) | Highlight quickfix errors, and display error messages as virtual text or in a popup window | ✅ |
+| [vim-qf-history](https://github.com/bfrg/vim-qf-history) | Navigate Vim's quickfix and location-list history using a popup menu | ✅ |
 
 ### Statusline
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| vim-tene | [🔗](https://github.com/kennypete/vim-tene) | Vim 9 - teRNARY STATUSLIne | ✅ |
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [vim-tene](https://github.com/kennypete/vim-tene) | Vim 9 - teRNARY STATUSLIne | ✅ |
