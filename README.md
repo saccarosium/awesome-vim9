@@ -76,7 +76,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [vim-conda-activate](https://github.com/ubaldot/vim-conda-activate) | Activate Conda environments in Vim. | ✅ |
 | [vim-bazel.vim](https://github.com/noscript/bazel.vim) | Bazel integration for Vim | ✅ |
 | [vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ❎ |
-
+| [vim-jqplay](https://github.com/bfrg/vim-jqplay) |  Run jq interactively in Vim  | ✅ |
 
 ## Language Server Protocol
 
