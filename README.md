@@ -35,8 +35,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
+| Name | Description | Maintained |
+| --- | --- | --- |
 | [vim-shout](https://github.com/habamax/vim-shout) | Run and Capture Shell Command Output in Vim | ✅ |
 
 ## Completion
