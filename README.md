@@ -66,6 +66,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [fuzzyy](https://github.com/Donaldttt/fuzzyy) | A fuzzy finder plugin for vim | ✅ |
 | [minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ✅ |
+| [scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder | ✅ |
 
 ## Integrations
 
@@ -104,6 +105,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | Name | Description | Maintained |
 | --- | --- | --- |
 | [vim-ii](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ✅ |
+| [devdocs.vim](https://github.com/girishji/devdocs.vim) | Lookup API documentation from devdocs.io without leaving Vim | ✅ |
 
 ## Motion
 
@@ -112,7 +114,9 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | Name | Description | Maintained |
 | --- | --- | --- |
 | [vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 |  ✅ |
-| [easyjump.vim](https://github.com/girishji/easyjump.vim) | The Vim motion you've always wanted. | ✅ |
+| [easyjump.vim](https://github.com/girishji/easyjump.vim) | The Vim motion you've always wanted | ✅ |
+| [fFtT.vim](https://github.com/girishji/fFtT.vim.git) | More accurate f, F, t, T navigation in Vim | ✅ |
+
 
 ## Plugin Management
 
