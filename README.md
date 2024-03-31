@@ -57,6 +57,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | Name | Description | Maintained |
 | --- | --- | --- |
 | [vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ✅ |
+| [vim-netrw-salad](https://github.com/saccarosium/vim-netrw-salad) | A delicious salad to go with your beloved netrw. | ✅ |
 
 ## Fuzzy Finding
 
