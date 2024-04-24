@@ -14,6 +14,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 * [Command Execution](#command-execution)
 * [Completion](#completion)
+* [Editing](#editing)
 * [File Management](#file-managment)
 * [Fuzzy Finding](#fuzzy-finding)
 * [Integrations](#integrations)
@@ -35,8 +36,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 **[`^        back to top        ^`](#awesome-vim9)**
 
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
+| Name | Description | Maintained |
+| --- | --- | --- |
 | [vim-shout](https://github.com/habamax/vim-shout) | Run and Capture Shell Command Output in Vim | ✅ |
 
 ## Completion
@@ -49,6 +50,14 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [autosuggest.vim](https://github.com/girishji/autosuggest.vim) | Autocompletion for Vim's cmdline mode. | ✅ |
 | [vim-camelcomplete](https://github.com/jessepav/vim-camelcomplete) | Vim 9 plugin to complete CamelCase, snake_case and dash-words identifier abbreviations. | ✅ |
 | [vim-wispath](https://github.com/mityu/vim-wispath) | A path completion script written in Vim9 script. | ✅ |
+
+## Editing
+
+**[`^        back to top        ^`](#awesome-vim9)**
+
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [auto-pairs](https://github.com/Eliot00/auto-pairs) | Vim9 auto pairs plugin | ✅ |
 
 ## File Management
 
