@@ -115,6 +115,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | Name | Description | Maintained |
 | --- | --- | --- |
 | [vim-ii](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ✅ |
+| [vim-boxdraw](https://github.com/jessepav/vim-boxdraw) | Vim 9 plugin to draw boxes, tables, and lines | ✅️ |
 
 ## Motion
 
