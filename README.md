@@ -116,6 +116,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [vim-ii](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ✅ |
 | [vim-boxdraw](https://github.com/jessepav/vim-boxdraw) | Vim 9 plugin to draw boxes, tables, and lines | ✅️ |
+| [vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji) | An easy emoji plugin for vim written in vim9script | ✅ |
 
 ## Motion
 
