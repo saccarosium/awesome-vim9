@@ -88,6 +88,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [vim-bazel.vim](https://github.com/noscript/bazel.vim) | Bazel integration for Vim | ✅ |
 | [vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ❎ |
 | [miniterm.vim](https://github.com/hahdookin/miniterm.vim) | Simple Vim9 toggle-terminal manager | ✅ |
+| [vimdict](https://github.com/wolandark/vimdict) | A Simple Wrapper Over The Dict CLI  | ✅ |
 
 ## Language Server Protocol
 
