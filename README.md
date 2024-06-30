@@ -1,10 +1,10 @@
-<div align=center> 
+<div align=center>
 
-<img src="assets/vim-logo.svg" alt="Vim Logo" width="120" height="120"> 
+<img src="assets/vim-logo.svg" alt="Vim Logo" width="120" height="120">
 
 # Awesome-Vim9
 
-Welcome to Awesome Vim9, a community-driven list of useful vim9script powered plugins, utilities, and libraries. Legacy vimscript plugins are not listed here. 
+Welcome to Awesome Vim9, a community-driven list of useful vim9script powered plugins, utilities, and libraries. Legacy vimscript plugins are not listed here.
 
 To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
@@ -58,6 +58,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | Name | Description | Maintained |
 | --- | --- | --- |
 | [auto-pairs](https://github.com/Eliot00/auto-pairs) | Vim9 auto pairs plugin | ✅ |
+| [vim-highlight-yanked](https://github.com/ubaldot/vim-highlight-yanked) | Highlight yanked text   | ✅ |
+| [vim-writegood](https://github.com/ubaldot/vim-writegood)               | Check your prose in Vim | ✅ |
 
 ## File Management
 
@@ -89,6 +91,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ❎ |
 | [miniterm.vim](https://github.com/hahdookin/miniterm.vim) | Simple Vim9 toggle-terminal manager | ✅ |
 | [vimdict](https://github.com/wolandark/vimdict) | A Simple Wrapper Over The Dict CLI  | ✅ |
+| [vim-manim](https://github.com/ubaldot/vim-manim) | Use Manim inside Vim | ✅ |
+| [vim-replica](https://github.com/ubaldot/vim-replica) | Enjoy Jupiter inside Vim | ✅ |
 
 ## Language Server Protocol
 
@@ -118,6 +122,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [vim-ii](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ✅ |
 | [vim-boxdraw](https://github.com/jessepav/vim-boxdraw) | Vim 9 plugin to draw boxes, tables, and lines | ✅️ |
 | [vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji) | An easy emoji plugin for vim written in vim9script | ✅ |
+| [vim-outline](https://github.com/ubaldot/vim-outline) | A simple outline sketcher. | ✅ |
+| [vim-helpme](https://github.com/ubaldot/vim-helpme)   | Who can remember all that stuff? | ✅ |
 
 ## Motion
 
