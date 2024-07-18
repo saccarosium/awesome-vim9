@@ -93,6 +93,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [vimdict](https://github.com/wolandark/vimdict) | A Simple Wrapper Over The Dict CLI  | ✅ |
 | [vim-manim](https://github.com/ubaldot/vim-manim) | Use Manim inside Vim | ✅ |
 | [vim-replica](https://github.com/ubaldot/vim-replica) | Enjoy Jupiter inside Vim | ✅ |
+| [vim-microdebugger](https://github.com/ubaldot/vim-microdebugger) | A debugger for micro-controllers | ✅ |
 
 ## Language Server Protocol
 
