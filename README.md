@@ -125,6 +125,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji) | An easy emoji plugin for vim written in vim9script | ✅ |
 | [vim-outline](https://github.com/ubaldot/vim-outline) | A simple outline sketcher. | ✅ |
 | [vim-helpme](https://github.com/ubaldot/vim-helpme)   | Who can remember all that stuff? | ✅ |
+| [vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid)  | Aid to convert legacy scripts to Vim9 language | ✅ |
 
 ## Motion
 
