@@ -81,6 +81,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ✅ |
 | [scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ✅ |
 
+
 ## Integrations
 
 **[`^        back to top        ^`](#awesome-vim9)**
@@ -89,7 +90,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [vim-conda-activate](https://github.com/ubaldot/vim-conda-activate) | Activate Conda environments in Vim. | ✅ |
 | [vim-bazel.vim](https://github.com/noscript/bazel.vim) | Bazel integration for Vim | ✅ |
-| [vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ❎ |
+| [vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ✅ |
 | [miniterm.vim](https://github.com/hahdookin/miniterm.vim) | Simple Vim9 toggle-terminal manager | ✅ |
 | [vimdict](https://github.com/wolandark/vimdict) | A Simple Wrapper Over The Dict CLI  | ✅ |
 | [vim-manim](https://github.com/ubaldot/vim-manim) | Use Manim inside Vim | ✅ |
@@ -159,7 +160,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 | Name | Description | Maintained |
 | --- | --- | --- |
-| [vim-qf-preview](https://github.com/bfrg/vim-qf-preview) | Preview the quickfix item under the cursor in a popup window | ❎ |
+| [vim-qf-preview](https://github.com/bfrg/vim-qf-preview) | Preview the quickfix item under the cursor in a popup window | ✅ |
 | [vim-qf-diagnostics](https://github.com/bfrg/vim-qf-diagnostics) | Highlight quickfix errors, and display error messages as virtual text or in a popup window | ✅ |
 | [vim-qf-history](https://github.com/bfrg/vim-qf-history) | Navigate Vim's quickfix and location-list history using a popup menu | ✅ |
 
