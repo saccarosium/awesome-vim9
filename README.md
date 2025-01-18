@@ -158,6 +158,14 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ✅ |
 | [vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this! | ✅ |
 
+### Color Scheme
+
+**[`^        back to top        ^`](#awesome-vim9)**
+
+| Name | Description | Maintained |
+| --- | --- | --- |
+| [vim-light-pink](https://github.com/zhixiao-zhang/vim-light-pink) | A Vim9 light color scheme. | ✅ |
+
 ### Quickfix
 
 **[`^        back to top        ^`](#awesome-vim9)**
