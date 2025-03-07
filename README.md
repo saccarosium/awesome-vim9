@@ -165,6 +165,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | Name | Description | Maintained |
 | --- | --- | --- |
 | [vim-light-pink](https://github.com/zhixiao-zhang/vim-light-pink) | A Vim9 light color scheme. | ✅ |
+| [vim9-gruvbox](https://github.com/kratuvid/vim9-gruvbox) | A vim9script port of Gruvbox | ✅ |
 
 ### Quickfix
 
