@@ -157,6 +157,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ✅ |
 | [vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this! | ✅ |
+| [vim9-winswap](https://github.com/kennypete/vim9-winswap) | Swaps (or puts) chosen windows, including between tabs. | ✅ |
 
 ### Color Scheme
 
