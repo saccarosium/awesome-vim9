@@ -131,6 +131,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [vim-outline](https://github.com/ubaldot/vim-outline) | A simple outline sketcher. | ✅ |
 | [vim-helpme](https://github.com/ubaldot/vim-helpme)   | Who can remember all that stuff? | ✅ |
 | [vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid)  | Aid to convert legacy scripts to Vim9 language | ✅ |
+| [competitest](https://github.com/mao-yining/competitest.vim) | CompetiTest.vim is a Vim plugin for Competitive Programming: it can manage and check testcases, download problems and contests from online judges and much more. | ✅ |
 
 ## Motion
 
