@@ -89,6 +89,7 @@ https://github.com/kennypete/vim-tene
 
 # UI
 
+https://github.com/ShayHill/vim9-focalpoint
 https://github.com/kennypete/vim-popped
 https://github.com/kennypete/vim9-winswap
 https://github.com/ubaldot/vim-extended-view
