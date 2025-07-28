@@ -1,45 +1,41 @@
-# Guide on how to contribute
+# Guide on how to contribute (GitHub repos only)
 
-**First**: fork the repo.
+## Alternative
 
-<img src="assets/fork-button.png" alt="Github Fork Button"> 
+Open an issue with the link to your plugin, and I will add it for you. If you'd rather make a PR, keep reading.
 
-**Second**: add the plugin at the bottom of the table of the corresponding section. 
+## First: fork the repo.
 
-> **Note**
-> Your plugin should be inserted always at the bottom 
+<img src="assets/fork-button.png" alt="Github Fork Button">
 
-```patch
-## Section
+## Second: add a GitHub link.
 
-**[`^        back to top        ^`](#awesome-vim9)**
-
-| Name | URL | Description | Maintained |
-| --- | --- | --- | --- |
-| other-plugin-name | [🔗](<url-to-other-plugin>) | description of other plugin | emoji |
-+ | your-plugin-name | [🔗](<url-to-your-plugin>) | description of your plugin | emoji |
-```
-
-If there isn't already a section that feats you plugin, then add it
-**alphabetical** order to the other sections using a capital letter after every
-space and adding the relevant entry to the table of content. 
-
-e.g.
-```markdown
-
-## My New Section
-
-### My New Sub Section
-```
-
-The new section should be a header level 2. If it is a subsection must be
-header level 3. There should not be level higher than 3.
-
-**Third**: commit the changes respecting the following commit format: 
+Add a GitHub link to your plugin under a category heading in `contributions.md`. If you do not see an appropriate category for your plugin, feel free to create one.
 
 ```patch
-Add hostname/user/repo 
+# Color Scheme
+
+https://github.com/kratuvid/vim9-gruvbox
+https://github.com/zhixiao-zhang/vim-light-pink
+
+# Command Execution
+
+https://github.com/habamax/vim-shout
+
+# Your New Category
+
+https://github.com/user/your-plugin
+```
+
+## Third: commit the changes respecting the following commit format:
+
+```patch
+Add hostname/user/repo
 # e.g. Add github.com/tpope/vim-fugitive
 ```
 
-**Fourth**: make a PR to this repo without modifing the title.
+## Fourth: make a PR to this repo without modifing the title.
+
+A script in this project will update the `README.md` file with your contribution, including a description and star count accessed through the GitHub API. The API rate limits for unauthenticated requests is **low**, and, for security reasons, I do not provide a way to preview your changes in `README.md`. Run `scripts\update_readme.py` if you a) have a token and b) want to preview your changes before making a PR.
+
+There is no need to run this script or make any modifications to project files. Just update `contributions.md` and make a PR.
