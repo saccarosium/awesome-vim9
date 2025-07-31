@@ -63,6 +63,7 @@ https://github.com/pit-ray/vim-autograd/tree/vim9
 
 https://github.com/habamax/vim-ii
 https://github.com/jessepav/vim-boxdraw
+https://github.com/lacygoill/vim9asm
 https://github.com/mao-yining/competitest.vim
 https://github.com/ubaldot/vim-helpme
 https://github.com/ubaldot/vim-outline
