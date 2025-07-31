@@ -86,6 +86,7 @@ https://github.com/bfrg/vim-qf-preview
 
 # Statusline
 
+https://github.com/Bakudankun/qline.vim
 https://github.com/kennypete/vim-tene
 
 # UI
