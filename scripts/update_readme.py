@@ -71,8 +71,8 @@ def _get_repo_info(repo_url: str, token: str) -> RepoInfo:
     data = response.json()
 
     return RepoInfo(
-        data.get("description", "No description provided"),
-        data.get("stargazers_count", 0),
+        data.get("description") or "*No description provided.*",
+        data.get("stargazers_count"),
     )
 
 
