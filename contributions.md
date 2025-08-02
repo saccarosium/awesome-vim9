@@ -73,6 +73,7 @@ https://github.com/wolandark/vim-ez-emoji
 # Motion
 
 https://github.com/girishji/easyjump.vim
+https://github.com/girishji/fFtT.vim
 https://github.com/monkoose/vim9-stargate
 
 # Plugin Management
