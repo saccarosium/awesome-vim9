@@ -162,4 +162,5 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [kennypete/vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ⭐10 |
 | [kennypete/vim9-winswap](https://github.com/kennypete/vim9-winswap) | A Vim9 script plugin enabling easy swapping and putting of windows | ⭐1 |
 | [noscript/elevator.vim](https://github.com/noscript/elevator.vim) | Scrollbar for VIM | ⭐11 |
+| [noscript/taberian.vim](https://github.com/noscript/taberian.vim) | Clickable tabs per VIM window | ⭐19 |
 | [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this!   | ⭐6 |
