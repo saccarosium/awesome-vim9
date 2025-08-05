@@ -17,9 +17,9 @@ https://github.com/mityu/vim-wispath
 # Editing
 
 https://github.com/Eliot00/auto-pairs
+https://github.com/ubaldot/vim-highlight-yanked
 https://github.com/ubaldot/vim-markdown-extras
 https://github.com/ubaldot/vim-op-surround
-https://github.com/ubaldot/vim-highlight-yanked
 https://github.com/ubaldot/vim-writegood
 
 # File Management
@@ -64,7 +64,7 @@ https://github.com/pit-ray/vim-autograd/tree/vim9
 
 https://github.com/habamax/vim-ii
 https://github.com/jessepav/vim-boxdraw
-https://github.com/lacygoill/awesome-vim9
+https://github.com/lacygoill/vim9asm
 https://github.com/mao-yining/competitest.vim
 https://github.com/ubaldot/vim-helpme
 https://github.com/ubaldot/vim-outline
