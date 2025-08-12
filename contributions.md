@@ -70,6 +70,7 @@ https://github.com/ubaldot/vim-helpme
 https://github.com/ubaldot/vim-outline
 https://github.com/ubaldot/vim9-conversion-aid
 https://github.com/wolandark/vim-ez-emoji
+https://github.com/ubaldot/vim-calendar
 
 # Motion
 
