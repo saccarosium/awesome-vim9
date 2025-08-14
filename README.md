@@ -49,7 +49,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐182 |
+| [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐183 |
 | [girishji/vimsuggest](https://github.com/girishji/vimsuggest) | Auto-completion for Vim's command-line. | ⭐50 |
 | [jessepav/vim-camelcomplete](https://github.com/jessepav/vim-camelcomplete) | Vim 9 plugin to complete CamelCase, snake_case and dash-words identifier abbreviations. | ⭐4 |
 | [mityu/vim-wispath](https://github.com/mityu/vim-wispath) | A path completion script written in Vim9 script. | ⭐6 |
@@ -77,7 +77,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [Donaldttt/fuzzyy](https://github.com/Donaldttt/fuzzyy) | A  vim9 fuzzy finder plugin with minimal dependency and modern UI | ⭐114 |
+| [Donaldttt/fuzzyy](https://github.com/Donaldttt/fuzzyy) | A  vim9 fuzzy finder plugin with minimal dependency and modern UI | ⭐115 |
 | [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) | Run fzy asynchronously in a Vim (popup) terminal-window | ⭐16 |
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ⭐88 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |
@@ -102,13 +102,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐590 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐591 |
 
 ## Libraries
 
 |     |     |     |
 | --- | --- | --- |
-| [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate/tree/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐944 |
+| [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate/tree/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐943 |
 | [lifepillar/vim-devel](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development  | ⭐13 |
 | [pit-ray/vim-autograd](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ⭐28 |
 
@@ -120,7 +120,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [jessepav/vim-boxdraw](https://github.com/jessepav/vim-boxdraw) | Vim 9 plugin to draw boxes, tables, and lines | ⭐8 |
 | [lacygoill/vim9asm](https://github.com/lacygoill/vim9asm) | *No description provided.* | ⭐20 |
 | [mao-yining/competitest.vim](https://github.com/mao-yining/competitest.vim) | CompetiTest.vim is a Vim plugin for Competitive Programming: it can manage and check testcases, download problems and contests from online judges and much more. | ⭐3 |
-| [ubaldot/vim-calendar](https://github.com/ubaldot/vim-calendar) | Calendar in Vim9 | ⭐0 |
+| [ubaldot/vim-calendar](https://github.com/ubaldot/vim-calendar) | Calendar in Vim9 | ⭐1 |
 | [ubaldot/vim-helpme](https://github.com/ubaldot/vim-helpme) | Can't you remember stuff? Try this! | ⭐10 |
 | [ubaldot/vim-outline](https://github.com/ubaldot/vim-outline) | A simple outline sketcher for different filetypes. | ⭐21 |
 | [ubaldot/vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid) | A little help for upgrading your scripts to vim9 language. | ⭐11 |
