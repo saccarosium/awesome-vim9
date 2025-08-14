@@ -12,15 +12,100 @@ a pull request.
 :created: 2025-07-28
 """
 
+import datetime
 import dataclasses
 import os
 from pathlib import Path
+import subprocess
 
+from collections.abc import Iterator
 import requests
+import re
 
 _CONTRIBUTIONS = Path(__file__).parents[1] / "contributions.md"
 _README_HEADER = Path(__file__).parent / "readme_header.md"
 _README = Path(__file__).parents[1] / "README.md"
+_CONGRATULATIONS = Path(__file__).parent / "congratulations.md"
+
+def _build_readme_table_row_pattern() -> re.Pattern:
+    """Build a regex pattern to match the table rows in README.md."""
+    sign_col = r"(?P<sign>[+-])"
+    url_col = r"\[(?P<anchor>[^\]]+)\]\([^\)]+\)"
+    stars_col = r"⭐(?P<stars>\d+)"
+    return re.compile(
+        r"\s*\|\s*".join([sign_col, url_col, ".*", stars_col]) + r"\s*\|$"
+    )
+
+_RE_TR = _build_readme_table_row_pattern()
+
+def _crossed_star_milestone(old_stars: int, new_stars: int) -> bool:
+    """Check if the star count crossed a threshold.
+
+    :param old_stars: The old star count.
+    :param new_stars: The new star count.
+    :return: True if the star count crossed a threshold, False otherwise.
+    """
+    s_old = str(old_stars)
+    s_new = str(new_stars)
+    d_old, d_new = map(len, (s_old, s_new))
+    if d_old != d_new:
+        return True  # crossing a threshold means the digit count changed
+    if old_stars == 0:
+        return True  # project got its first stars
+    if d_old == 1:
+        return False  # next congratulation is at 10 stars
+
+    if d_old == 2:
+        congrat_every = 25
+    elif d_old == 3:
+        congrat_every = 100
+    else:
+        congrat_every = int(float(f"1e{d_old - 1}")) / 4
+
+    return (old_stars // congrat_every) != (new_stars // congrat_every)
+
+
+def _iter_star_changes() -> Iterator[tuple[str, int, int]]:
+    """Yield updated star counts from README.md diff.
+    
+    :yield: Tuple of (repository name, old star count, new star count).
+    """
+    result = subprocess.run(
+        ["git", "diff", _README],
+        capture_output=True,
+    )
+    file_diff = result.stdout.decode("utf-8", errors="replace")
+    diff_rows = filter(None, (_RE_TR.match(x) for x in file_diff.splitlines()))
+
+    sub_anchor: str | None = None
+    sub_stars: int = 0
+    for row in diff_rows:
+        sign, anchor, stars = row.groups()
+        if sign == "-":
+            sub_anchor = anchor
+            sub_stars = int(stars)
+        elif sign == "+":
+            if anchor != sub_anchor: # an addition, not a replacement
+                continue
+            yield anchor, sub_stars, int(stars)
+        else:
+            msg = f"Unexpected sign '{sign}' in diff row: {row}"
+            raise ValueError(msg)
+
+def log_star_milestones() -> None:
+    """Log star milestones to the console."""
+    for anchor, old_stars, new_stars in _iter_star_changes():
+        if _crossed_star_milestone(old_stars, new_stars):
+            print(
+                f"⭐ {anchor} crossed a star threshold: "
+                f"{old_stars} -> {new_stars} stars."
+            )
+            with open(_CONGRATULATIONS, "a", encoding="utf-8") as f:
+                f.write(
+                    f"{datetime.datetime.now().isoformat()} - "
+                    f"{anchor} crossed a star threshold: "
+                    f"{old_stars} -> {new_stars} stars.\n"
+                )
 
 
 def _get_api_url_from_repo_url(repo_url: str) -> str:
@@ -204,3 +289,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+    log_star_milestones()
