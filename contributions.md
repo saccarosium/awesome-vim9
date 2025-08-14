@@ -66,11 +66,11 @@ https://github.com/habamax/vim-ii
 https://github.com/jessepav/vim-boxdraw
 https://github.com/lacygoill/vim9asm
 https://github.com/mao-yining/competitest.vim
+https://github.com/ubaldot/vim-calendar
 https://github.com/ubaldot/vim-helpme
 https://github.com/ubaldot/vim-outline
 https://github.com/ubaldot/vim9-conversion-aid
 https://github.com/wolandark/vim-ez-emoji
-https://github.com/ubaldot/vim-calendar
 
 # Motion
 
