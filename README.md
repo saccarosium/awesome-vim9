@@ -77,7 +77,6 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [Donaldttt/fuzzyy](https://github.com/Donaldttt/fuzzyy) | Vim9 fuzzy finder plugin with minimal dependency and modern UI | ⭐116 |
 | [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) | Run fzy asynchronously in a Vim (popup) terminal-window | ⭐16 |
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ⭐88 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |

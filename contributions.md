@@ -31,7 +31,6 @@ https://github.com/ycm/poplar.vim
 
 # Fuzzy Finding
 
-https://github.com/Donaldttt/fuzzyy
 https://github.com/bfrg/vim-fzy
 https://github.com/girishji/scope.vim
 https://github.com/hahdookin/minifuzzy.vim
