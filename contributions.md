@@ -35,6 +35,7 @@ https://github.com/bfrg/vim-fzy
 https://github.com/girishji/scope.vim
 https://github.com/hahdookin/minifuzzy.vim
 https://github.com/ubaldot/vim-poptools
+https://github.com/vim-fuzzbox/fuzzbox.vim
 
 # Integrations
 
