@@ -49,7 +49,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐185 |
+| [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐184 |
 | [girishji/vimsuggest](https://github.com/girishji/vimsuggest) | Auto-completion for Vim's command-line. | ⭐50 |
 | [jessepav/vim-camelcomplete](https://github.com/jessepav/vim-camelcomplete) | Vim 9 plugin to complete CamelCase, snake_case and dash-words identifier abbreviations. | ⭐4 |
 | [mityu/vim-wispath](https://github.com/mityu/vim-wispath) | A path completion script written in Vim9 script. | ⭐6 |
@@ -68,7 +68,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [habamax/vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ⭐56 |
+| [habamax/vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ⭐57 |
 | [nda-cunh/SupraTree](https://github.com/nda-cunh/SupraTree) | a Vim9script plugin File-Manager | ⭐0 |
 | [saccarosium/vim-netrw-salad](https://github.com/saccarosium/vim-netrw-salad) | A delicious salad to go with your beloved netrw. | ⭐2 |
 | [ubaldot/vim-open-recent](https://github.com/ubaldot/vim-open-recent) | Open recent files from a popup menu. Written in Vim9.  | ⭐5 |
@@ -82,7 +82,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ⭐88 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |
 | [ubaldot/vim-poptools](https://github.com/ubaldot/vim-poptools) | Exploit popups as much as you can! | ⭐13 |
-| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Vim9 fuzzy finder plugin with minimal dependency and modern UI | ⭐116 |
+| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Vim9 fuzzy finder plugin with minimal dependency and modern UI | ⭐115 |
 
 ## Integrations
 
@@ -103,7 +103,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐590 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐589 |
 
 ## Libraries
 
