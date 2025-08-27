@@ -22,7 +22,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 - [Integrations](#integrations)
 - [Language Server Protocol](#language-server-protocol)
 - [Libraries](#libraries)
-- [.vimrc](#.vimrc)
+- [Vimrc](#Vimrc)
 - [Miscellaneous](#miscellaneous)
 - [Motion](#motion)
 - [Plugin Management](#plugin-management)
@@ -114,7 +114,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [lifepillar/vim-devel](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development  | ⭐14 |
 | [pit-ray/vim-autograd](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ⭐28 |
 
-## .vimrc
+## Vimrc
 
 |     |     |     |
 | --- | --- | --- |
