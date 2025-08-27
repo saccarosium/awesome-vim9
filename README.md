@@ -103,7 +103,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐592 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐593 |
 
 ## Libraries
 
@@ -123,6 +123,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [mao-yining/competitest.vim](https://github.com/mao-yining/competitest.vim) | CompetiTest.vim is a Vim plugin for Competitive Programming: it can manage and check testcases, download problems and contests from online judges and much more. | ⭐3 |
 | [nda-cunh/SupraIcons](https://github.com/nda-cunh/SupraIcons) | Vim9Script plugin, rewrite of vim-devicons but better (beta) | ⭐1 |
 | [nda-cunh/SupraSnake](https://github.com/nda-cunh/SupraSnake) | a vim9script plugin for Add a SnakeGame ! | ⭐1 |
+| [sevehub/vim9psgrep](https://github.com/sevehub/vim9psgrep) | vim9psgrep is a Vim9script plugin that integrates the power of ripgrep with Vim, utilizing PowerShell scripts and Visual Basic popups  | ⭐1 |
 | [ubaldot/vim-calendar](https://github.com/ubaldot/vim-calendar) | Calendar in Vim9 | ⭐2 |
 | [ubaldot/vim-helpme](https://github.com/ubaldot/vim-helpme) | Can't you remember stuff? Try this! | ⭐10 |
 | [ubaldot/vim-outline](https://github.com/ubaldot/vim-outline) | A simple outline sketcher for different filetypes. | ⭐21 |
@@ -163,7 +164,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [ShayHill/vim9-limelight](https://github.com/ShayHill/vim9-limelight) | Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*. | ⭐7 |
-| [ShayHill/vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) | Define a command, ScratchTerm, that creates a new terminal buffer and marks it as a scratch buffer. This allows us to kill all scratch terminals in the current view with a single function. | ⭐9 |
+| [ShayHill/vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) | Define a command, ScratchTerm, that creates a new terminal buffer and marks it as a scratch buffer. This allows us to kill all scratch terminals in the current view with a single function. | ⭐10 |
 | [kennypete/vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ⭐10 |
 | [kennypete/vim9-winswap](https://github.com/kennypete/vim9-winswap) | A Vim9 script plugin enabling easy swapping and putting of windows | ⭐2 |
 | [noscript/elevator.vim](https://github.com/noscript/elevator.vim) | Scrollbar for VIM | ⭐11 |
