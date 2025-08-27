@@ -107,3 +107,7 @@ https://github.com/kennypete/vim9-winswap
 https://github.com/noscript/elevator.vim
 https://github.com/noscript/taberian.vim
 https://github.com/ubaldot/vim-extended-view
+
+# Vimrc
+
+https://github.com/kennypete/.vimrc

@@ -28,6 +28,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 - [Quickfix](#quickfix)
 - [Statusline](#statusline)
 - [UI](#ui)
+- [Vimrc](#vimrc)
 
 ---
 
@@ -171,3 +172,9 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [noscript/elevator.vim](https://github.com/noscript/elevator.vim) | Scrollbar for VIM | ⭐11 |
 | [noscript/taberian.vim](https://github.com/noscript/taberian.vim) | Clickable tabs per VIM window | ⭐19 |
 | [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this!   | ⭐6 |
+
+## Vimrc
+
+|     |     |     |
+| --- | --- | --- |
+| [kennypete/.vimrc](https://github.com/kennypete/.vimrc) | My .vimrc | ⭐2 |
