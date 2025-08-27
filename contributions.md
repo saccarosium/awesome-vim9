@@ -43,6 +43,7 @@ https://github.com/vim-fuzzbox/fuzzbox.vim
 https://github.com/bfrg/vim-cmake-help
 https://github.com/hahdookin/miniterm.vim
 https://github.com/noscript/bazel.vim
+https://github.com/sevehub/vim9lua
 https://github.com/ubaldot/vim-conda-activate
 https://github.com/ubaldot/vim-manim
 https://github.com/ubaldot/vim-microdebugger
