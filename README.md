@@ -22,6 +22,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 - [Integrations](#integrations)
 - [Language Server Protocol](#language-server-protocol)
 - [Libraries](#libraries)
+- [.vimrc](#.vimrc)
 - [Miscellaneous](#miscellaneous)
 - [Motion](#motion)
 - [Plugin Management](#plugin-management)
@@ -113,6 +114,12 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [lifepillar/vim-devel](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development  | ⭐14 |
 | [pit-ray/vim-autograd](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ⭐28 |
 
+## .vimrc
+
+|     |     |     |
+| --- | --- | --- |
+| [kennypete/.vimrc](https://github.com/kennypete/.vimrc) |  Vim9script configuration for Linux/Windows | ⭐2 |
+
 ## Miscellaneous
 
 |     |     |     |
@@ -128,6 +135,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [ubaldot/vim-outline](https://github.com/ubaldot/vim-outline) | A simple outline sketcher for different filetypes. | ⭐21 |
 | [ubaldot/vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid) | A little help for upgrading your scripts to vim9 language. | ⭐11 |
 | [wolandark/vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji) | An easy emoji plugin for vim written in vim9script | ⭐10 |
+| [sevehub/vim9psgrep](https://github.com/sevehub/vim9psgrep) | Integrate rg.exe with Vim using PowerShell and Visual Basic popups | ⭐1 |
+| [sevehub/vim9lua](https://github.com/sevehub/vim9lua) | Run Lua scripts in Vim via PowerShell | ⭐0 |
 
 ## Motion
 
