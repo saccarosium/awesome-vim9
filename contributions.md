@@ -5,6 +5,7 @@ https://github.com/zhixiao-zhang/vim-light-pink
 
 # Command Execution
 
+https://github.com/ShayHill/vim9-scratchterm
 https://github.com/habamax/vim-shout
 
 # Completion
@@ -96,14 +97,14 @@ https://github.com/bfrg/vim-qf-preview
 # Statusline
 
 https://github.com/Bakudankun/qline.vim
+https://github.com/ShayHill/vim9-limelight
 https://github.com/kennypete/vim-tene
 
 # UI
 
-https://github.com/ShayHill/vim9-limelight
-https://github.com/ShayHill/vim9-scratchterm
 https://github.com/kennypete/vim-popped
 https://github.com/kennypete/vim9-winswap
+https://github.com/nda-cunh/indent_rainbow_vim
 https://github.com/noscript/elevator.vim
 https://github.com/noscript/taberian.vim
 https://github.com/ubaldot/vim-extended-view
