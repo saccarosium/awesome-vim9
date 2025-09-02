@@ -19,6 +19,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 - [Editing](#editing)
 - [File Management](#file-management)
 - [Fuzzy Finding](#fuzzy-finding)
+- [Guides](#guides)
 - [Integrations](#integrations)
 - [Language Server Protocol](#language-server-protocol)
 - [Libraries](#libraries)
@@ -85,6 +86,12 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |
 | [ubaldot/vim-poptools](https://github.com/ubaldot/vim-poptools) | Exploit popups as much as you can! | ⭐13 |
 | [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Vim9 fuzzy finder plugin with minimal dependency and modern UI | ⭐118 |
+
+## Guides
+
+|     |     |     |
+| --- | --- | --- |
+| [ShayHill/article_install_vim_in_windows](https://github.com/ShayHill/article_install_vim_in_windows) | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐4 |
 
 ## Integrations
 

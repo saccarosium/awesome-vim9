@@ -39,6 +39,10 @@ https://github.com/hahdookin/minifuzzy.vim
 https://github.com/ubaldot/vim-poptools
 https://github.com/vim-fuzzbox/fuzzbox.vim
 
+# Guides
+
+https://github.com/ShayHill/article_install_vim_in_windows
+
 # Integrations
 
 https://github.com/bfrg/vim-cmake-help
