@@ -85,7 +85,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ⭐86 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |
 | [ubaldot/vim-poptools](https://github.com/ubaldot/vim-poptools) | Exploit popups as much as you can! | ⭐14 |
-| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Vim9 fuzzy finder plugin with minimal dependency and modern UI | ⭐120 |
+| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Vim9 fuzzy finder plugin with minimal dependency and modern UI | ⭐121 |
 
 ## Guides
 
@@ -113,14 +113,14 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐593 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐594 |
 
 ## Libraries
 
 |     |     |     |
 | --- | --- | --- |
 | [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate/tree/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐950 |
-| [lifepillar/vim-devel](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development  | ⭐15 |
+| [lifepillar/vim-devel](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development  | ⭐16 |
 | [pit-ray/vim-autograd](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ⭐28 |
 
 ## Miscellaneous
@@ -146,13 +146,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [girishji/easyjump.vim](https://github.com/girishji/easyjump.vim) | The Vim motion you've always wanted. | ⭐18 |
 | [girishji/fFtT.vim](https://github.com/girishji/fFtT.vim) | More accurate f, F, t, T navigation in Vim. | ⭐10 |
-| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 | ⭐113 |
+| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 | ⭐114 |
 
 ## Plugin Management
 
 |     |     |     |
 | --- | --- | --- |
-| [bennyyip/plugpac.vim](https://github.com/bennyyip/plugpac.vim) | Plugpac is a plugin manger written in Vim9 based on minpac, provides vim-plug-like experience | ⭐61 |
+| [bennyyip/plugpac.vim](https://github.com/bennyyip/plugpac.vim) | Plugpac is a plugin manger written in Vim9 based on minpac, provides vim-plug-like experience | ⭐62 |
 
 ## Quickfix
 
