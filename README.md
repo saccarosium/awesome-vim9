@@ -186,3 +186,10 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [kennypete/.vimrc](https://github.com/kennypete/.vimrc) | My .vimrc | ⭐2 |
+
+## Distros
+
+|     |     |     |
+| --- | --- | --- |
+| [wolandark/wim](https://github.com/wolandark/wim) | wim | ⭐335 |
+| [rochacbruno/bred](https://github.com/rochacbruno/bred) | bred | ⭐3 |
