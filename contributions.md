@@ -57,6 +57,7 @@ https://github.com/wolandark/vimdict
 
 # Language Server Protocol
 
+https://github.com/DanielViberg/lsp
 https://github.com/creativenull/vim-lspclient
 https://github.com/saccarosium/yegappan-lsp-settings
 https://github.com/yegappan/lsp/tree/main
