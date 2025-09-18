@@ -61,6 +61,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
+| [Coacher/vim9-buckler](https://github.com/Coacher/vim9-buckler) | Vim9 plugin that maintains a consistent yank history through registers | ⭐3 |
 | [Eliot00/auto-pairs](https://github.com/Eliot00/auto-pairs) | Vim9 auto pairs plugin | ⭐21 |
 | [ubaldot/vim-highlight-yanked](https://github.com/ubaldot/vim-highlight-yanked) | Highlight yanked text for Vim9 in less than 100 lines of code. | ⭐14 |
 | [ubaldot/vim-markdown-extras](https://github.com/ubaldot/vim-markdown-extras) | Taking notes and editing markdown files: make it easy! | ⭐12 |
