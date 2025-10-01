@@ -52,7 +52,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐183 |
+| [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐180 |
 | [girishji/vimsuggest](https://github.com/girishji/vimsuggest) | Auto-completion for Vim's command-line. | ⭐50 |
 | [jessepav/vim-camelcomplete](https://github.com/jessepav/vim-camelcomplete) | Vim 9 plugin to complete CamelCase, snake_case and dash-words identifier abbreviations. | ⭐4 |
 | [mityu/vim-wispath](https://github.com/mityu/vim-wispath) | A path completion script written in Vim9 script. | ⭐6 |
@@ -73,10 +73,10 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [habamax/vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ⭐58 |
+| [habamax/vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ⭐59 |
 | [nda-cunh/SupraTree](https://github.com/nda-cunh/SupraTree) | a Vim9script plugin File-Manager | ⭐0 |
 | [saccarosium/vim-netrw-salad](https://github.com/saccarosium/vim-netrw-salad) | A delicious salad to go with your beloved netrw. | ⭐2 |
-| [ubaldot/vim-open-recent](https://github.com/ubaldot/vim-open-recent) | Open recent files from a popup menu. Written in Vim9.  | ⭐4 |
+| [ubaldot/vim-open-recent](https://github.com/ubaldot/vim-open-recent) | Open recent files from a popup menu. Written in Vim9.  | ⭐3 |
 | [ycm/poplar.vim](https://github.com/ycm/poplar.vim) | Popup filetree and pinned files for vim9 | ⭐19 |
 
 ## Fuzzy Finding
@@ -99,12 +99,12 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [bfrg/vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ⭐7 |
+| [bfrg/vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ⭐8 |
 | [hahdookin/miniterm.vim](https://github.com/hahdookin/miniterm.vim) | Simple Vim9 toggle-terminal manager | ⭐25 |
 | [noscript/bazel.vim](https://github.com/noscript/bazel.vim) | Google Bazel integration for Vim | ⭐6 |
 | [sevehub/vim9lua](https://github.com/sevehub/vim9lua) | This Vim9Script plugin allows users to execute the contents of the current buffer as a Lua script using Windows PowerShell. It provides a way to test and run Lua code directly from Vim, enhancing the development workflow for Lua programmers.  | ⭐0 |
 | [ubaldot/vim-conda-activate](https://github.com/ubaldot/vim-conda-activate) | Activate Conda environments in Vim. | ⭐18 |
-| [ubaldot/vim-manim](https://github.com/ubaldot/vim-manim) | Render your manim-ations from Vim. | ⭐5 |
+| [ubaldot/vim-manim](https://github.com/ubaldot/vim-manim) | Render your manim-ations from Vim. | ⭐6 |
 | [ubaldot/vim-microdebugger](https://github.com/ubaldot/vim-microdebugger) | A tiny plugin on top of Termdebug for remote debugging (docker, MCUs, etc) | ⭐6 |
 | [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) | Enjoy Jupyter through Vim! | ⭐29 |
 | [wolandark/vimdict](https://github.com/wolandark/vimdict) | A Simple Wrapper Over The Dict CLI Utility For Vim9 | ⭐5 |
@@ -113,10 +113,10 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐0 |
+| [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐1 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐601 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐602 |
 
 ## Libraries
 
@@ -148,7 +148,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [girishji/easyjump.vim](https://github.com/girishji/easyjump.vim) | The Vim motion you've always wanted. | ⭐18 |
-| [girishji/fFtT.vim](https://github.com/girishji/fFtT.vim) | More accurate f, F, t, T navigation in Vim. | ⭐10 |
+| [girishji/fFtT.vim](https://github.com/girishji/fFtT.vim) | More accurate f, F, t, T navigation in Vim. | ⭐9 |
 | [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 | ⭐115 |
 
 ## Plugin Management
