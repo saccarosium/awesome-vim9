@@ -73,7 +73,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [habamax/vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ⭐60 |
+| [habamax/vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ⭐61 |
 | [nda-cunh/SupraTree](https://github.com/nda-cunh/SupraTree) | a Vim9script plugin File-Manager | ⭐0 |
 | [saccarosium/vim-netrw-salad](https://github.com/saccarosium/vim-netrw-salad) | A delicious salad to go with your beloved netrw. | ⭐2 |
 | [ubaldot/vim-open-recent](https://github.com/ubaldot/vim-open-recent) | Open recent files from a popup menu. Written in Vim9.  | ⭐3 |
@@ -87,7 +87,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ⭐88 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |
 | [ubaldot/vim-poptools](https://github.com/ubaldot/vim-poptools) | Exploit popups as much as you can! | ⭐16 |
-| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Vim9 fuzzy finder that just works | ⭐126 |
+| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Vim9 fuzzy finder that just works | ⭐127 |
 
 ## Guides
 
@@ -116,13 +116,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐1 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐617 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐618 |
 
 ## Libraries
 
 |     |     |     |
 | --- | --- | --- |
-| [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate/tree/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐953 |
+| [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate/tree/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐954 |
 | [lifepillar/vim-devel](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development  | ⭐16 |
 | [pit-ray/vim-autograd](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ⭐28 |
 
