@@ -47,6 +47,7 @@ https://github.com/ShayHill/article_install_vim_in_windows
 
 # Integrations
 
+https://github.com/DanBradbury/github-actions.vim
 https://github.com/bfrg/vim-cmake-help
 https://github.com/hahdookin/miniterm.vim
 https://github.com/noscript/bazel.vim
@@ -56,7 +57,6 @@ https://github.com/ubaldot/vim-manim
 https://github.com/ubaldot/vim-microdebugger
 https://github.com/ubaldot/vim-replica
 https://github.com/wolandark/vimdict
-https://github.com/DanBradbury/github-actions.vim
 
 # Language Server Protocol
 
@@ -78,8 +78,8 @@ https://github.com/jessepav/vim-boxdraw
 https://github.com/lacygoill/vim9asm
 https://github.com/mao-yining/competitest.vim
 https://github.com/nda-cunh/SupraIcons
-https://github.com/nda-cunh/SupraSnake
 https://github.com/nda-cunh/SupraPacman
+https://github.com/nda-cunh/SupraSnake
 https://github.com/sevehub/vim9psgrep
 https://github.com/ubaldot/vim-calendar
 https://github.com/ubaldot/vim-helpme

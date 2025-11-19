@@ -86,8 +86,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) | Run fzy asynchronously in a Vim (popup) terminal-window | ⭐16 |
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ⭐88 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |
-| [ubaldot/vim-poptools](https://github.com/ubaldot/vim-poptools) | Exploit popups as much as you can! | ⭐16 |
-| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Vim9 fuzzy finder that just works | ⭐127 |
+| [ubaldot/vim-poptools](https://github.com/ubaldot/vim-poptools) | Exploit popups as much as you can! | ⭐17 |
+| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Modern fuzzy finder for Vim with minimal dependencies | ⭐132 |
 
 ## Guides
 
@@ -99,6 +99,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
+| [DanBradbury/github-actions.vim](https://github.com/DanBradbury/github-actions.vim) | Interact with GitHub Actions in vim | ⭐1 |
 | [bfrg/vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ⭐8 |
 | [hahdookin/miniterm.vim](https://github.com/hahdookin/miniterm.vim) | Simple Vim9 toggle-terminal manager | ⭐25 |
 | [noscript/bazel.vim](https://github.com/noscript/bazel.vim) | Google Bazel integration for Vim | ⭐6 |
@@ -116,7 +117,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐1 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐618 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐628 |
 
 ## Libraries
 
@@ -135,8 +136,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [lacygoill/vim9asm](https://github.com/lacygoill/vim9asm) | *No description provided.* | ⭐21 |
 | [mao-yining/competitest.vim](https://github.com/mao-yining/competitest.vim) | CompetiTest.vim is a Vim plugin for Competitive Programming: it can manage and check testcases, download problems and contests from online judges and much more. | ⭐3 |
 | [nda-cunh/SupraIcons](https://github.com/nda-cunh/SupraIcons) | Vim9Script plugin, rewrite of vim-devicons but better (beta) | ⭐1 |
-| [nda-cunh/SupraSnake](https://github.com/nda-cunh/SupraSnake) | a vim9script plugin for Add a SnakeGame ! | ⭐1 |
-| [nda-cunh/SupraPacman](https://github.com/nda-cunh/SupraPacman) | a vim9script plugin for Add a hard Pacman Game ! | ⭐0 |
+| [nda-cunh/SupraPacman](https://github.com/nda-cunh/SupraPacman) | vim9.1 plugin for playing to pacman in vim | ⭐3 |
+| [nda-cunh/SupraSnake](https://github.com/nda-cunh/SupraSnake) | a vim9script plugin for Add a SnakeGame ! | ⭐2 |
 | [sevehub/vim9psgrep](https://github.com/sevehub/vim9psgrep) | vim9psgrep is a Vim9script plugin that integrates the power of ripgrep with Vim, utilizing PowerShell scripts and Visual Basic popups  | ⭐1 |
 | [ubaldot/vim-calendar](https://github.com/ubaldot/vim-calendar) | Calendar in Vim9 | ⭐2 |
 | [ubaldot/vim-helpme](https://github.com/ubaldot/vim-helpme) | Can't you remember stuff? Try this! | ⭐10 |
