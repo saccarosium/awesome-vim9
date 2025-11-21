@@ -41,6 +41,11 @@ https://github.com/hahdookin/minifuzzy.vim
 https://github.com/ubaldot/vim-poptools
 https://github.com/vim-fuzzbox/fuzzbox.vim
 
+# Games
+
+https://github.com/nda-cunh/SupraPacman
+https://github.com/nda-cunh/SupraSnake
+
 # Guides
 
 https://github.com/ShayHill/article_install_vim_in_windows
@@ -78,8 +83,6 @@ https://github.com/jessepav/vim-boxdraw
 https://github.com/lacygoill/vim9asm
 https://github.com/mao-yining/competitest.vim
 https://github.com/nda-cunh/SupraIcons
-https://github.com/nda-cunh/SupraPacman
-https://github.com/nda-cunh/SupraSnake
 https://github.com/sevehub/vim9psgrep
 https://github.com/ubaldot/vim-calendar
 https://github.com/ubaldot/vim-helpme
