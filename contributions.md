@@ -54,6 +54,7 @@ https://github.com/ShayHill/article_install_vim_in_windows
 
 https://github.com/DanBradbury/github-actions.vim
 https://github.com/bfrg/vim-cmake-help
+https://github.com/gcanat/texpresso.vim9
 https://github.com/hahdookin/miniterm.vim
 https://github.com/noscript/bazel.vim
 https://github.com/sevehub/vim9lua
