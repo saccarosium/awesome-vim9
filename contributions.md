@@ -24,6 +24,7 @@ https://github.com/ubaldot/vim-highlight-yanked
 https://github.com/ubaldot/vim-markdown-extras
 https://github.com/ubaldot/vim-op-surround
 https://github.com/ubaldot/vim-writegood
+https://github.com/nda-cunh/SupraComment
 
 # File Management
 
