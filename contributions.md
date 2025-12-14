@@ -20,11 +20,11 @@ https://github.com/mityu/vim-wispath
 https://github.com/Coacher/vim9-buckler
 https://github.com/Coacher/vim9-cutlass
 https://github.com/Eliot00/auto-pairs
+https://github.com/nda-cunh/SupraComment
 https://github.com/ubaldot/vim-highlight-yanked
 https://github.com/ubaldot/vim-markdown-extras
 https://github.com/ubaldot/vim-op-surround
 https://github.com/ubaldot/vim-writegood
-https://github.com/nda-cunh/SupraComment
 
 # File Management
 
