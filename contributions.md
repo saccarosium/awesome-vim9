@@ -19,6 +19,7 @@ https://github.com/mityu/vim-wispath
 
 https://github.com/Coacher/vim9-buckler
 https://github.com/Coacher/vim9-cutlass
+https://github.com/nda-cunh/vim9-autopairs
 https://github.com/Eliot00/auto-pairs
 https://github.com/ubaldot/vim-highlight-yanked
 https://github.com/ubaldot/vim-markdown-extras
