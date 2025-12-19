@@ -53,7 +53,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐183 |
+| [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐182 |
 | [girishji/vimsuggest](https://github.com/girishji/vimsuggest) | Auto-completion for Vim's command-line. | ⭐50 |
 | [jessepav/vim-camelcomplete](https://github.com/jessepav/vim-camelcomplete) | Vim 9 plugin to complete CamelCase, snake_case and dash-words identifier abbreviations. | ⭐4 |
 | [mityu/vim-wispath](https://github.com/mityu/vim-wispath) | A path completion script written in Vim9 script. | ⭐6 |
@@ -66,6 +66,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [Coacher/vim9-cutlass](https://github.com/Coacher/vim9-cutlass) | Vim9 plugin that adds a 'cut' operation separate from 'delete' | ⭐2 |
 | [Eliot00/auto-pairs](https://github.com/Eliot00/auto-pairs) | Vim9 auto pairs plugin | ⭐21 |
 | [nda-cunh/SupraComment](https://github.com/nda-cunh/SupraComment) | Vim9 commenting plugin inspired by VS Code’s Ctrl + / behavior. | ⭐0 |
+| [nda-cunh/vim9-autopairs](https://github.com/nda-cunh/vim9-autopairs) | Vim9 auto pairs plugin | ⭐0 |
 | [ubaldot/vim-highlight-yanked](https://github.com/ubaldot/vim-highlight-yanked) | Highlight yanked text for Vim9 in less than 100 lines of code. | ⭐14 |
 | [ubaldot/vim-markdown-extras](https://github.com/ubaldot/vim-markdown-extras) | Taking notes and editing markdown files: make it easy! | ⭐12 |
 | [ubaldot/vim-op-surround](https://github.com/ubaldot/vim-op-surround) | Vim9 surround!  | ⭐2 |
@@ -102,7 +103,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [ShayHill/article_install_vim_in_windows](https://github.com/ShayHill/article_install_vim_in_windows) | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐10 |
+| [ShayHill/article_install_vim_in_windows](https://github.com/ShayHill/article_install_vim_in_windows) | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐11 |
 
 ## Integrations
 
@@ -127,13 +128,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐1 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐639 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐641 |
 
 ## Libraries
 
 |     |     |     |
 | --- | --- | --- |
-| [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate/tree/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐954 |
+| [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate/tree/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐955 |
 | [lifepillar/vim-devel](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development  | ⭐16 |
 | [pit-ray/vim-autograd](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ⭐28 |
 
