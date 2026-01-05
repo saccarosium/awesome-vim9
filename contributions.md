@@ -54,6 +54,7 @@ https://github.com/ShayHill/article_install_vim_in_windows
 
 # Integrations
 
+https://github.com/DanBradbury/copilot-chat.vim
 https://github.com/DanBradbury/github-actions.vim
 https://github.com/bfrg/vim-cmake-help
 https://github.com/gcanat/texpresso.vim9

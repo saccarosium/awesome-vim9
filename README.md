@@ -47,13 +47,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [ShayHill/vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) | Define a command, ScratchTerm, that creates a new terminal buffer and marks it as a scratch buffer. This allows us to kill all scratch terminals in the current view with a single function. | ⭐12 |
-| [habamax/vim-shout](https://github.com/habamax/vim-shout) | Run and Capture Shell Command Output in Vim | ⭐26 |
+| [habamax/vim-shout](https://github.com/habamax/vim-shout) | Run and Capture Shell Command Output in Vim | ⭐27 |
 
 ## Completion
 
 |     |     |     |
 | --- | --- | --- |
-| [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐182 |
+| [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐184 |
 | [girishji/vimsuggest](https://github.com/girishji/vimsuggest) | Auto-completion for Vim's command-line. | ⭐50 |
 | [jessepav/vim-camelcomplete](https://github.com/jessepav/vim-camelcomplete) | Vim 9 plugin to complete CamelCase, snake_case and dash-words identifier abbreviations. | ⭐4 |
 | [mityu/vim-wispath](https://github.com/mityu/vim-wispath) | A path completion script written in Vim9 script. | ⭐6 |
@@ -76,11 +76,11 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [habamax/vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ⭐60 |
-| [nda-cunh/SupraTree](https://github.com/nda-cunh/SupraTree) | a Vim9script plugin File-Manager | ⭐0 |
+| [habamax/vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ⭐61 |
+| [nda-cunh/SupraTree](https://github.com/nda-cunh/SupraTree) | A tree for vim | ⭐0 |
 | [saccarosium/vim-netrw-salad](https://github.com/saccarosium/vim-netrw-salad) | A delicious salad to go with your beloved netrw. | ⭐2 |
 | [ubaldot/vim-open-recent](https://github.com/ubaldot/vim-open-recent) | Open recent files from a popup menu. Written in Vim9.  | ⭐3 |
-| [ycm/poplar.vim](https://github.com/ycm/poplar.vim) | Popup filetree and pinned files for vim9 | ⭐19 |
+| [ycm/poplar.vim](https://github.com/ycm/poplar.vim) | Popup filetree and pinned files for vim9 | ⭐20 |
 
 ## Fuzzy Finding
 
@@ -96,19 +96,20 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [nda-cunh/SupraPacman](https://github.com/nda-cunh/SupraPacman) | vim9.1 plugin for playing to pacman in vim | ⭐9 |
+| [nda-cunh/SupraPacman](https://github.com/nda-cunh/SupraPacman) | vim9.1 plugin for playing to pacman in vim | ⭐10 |
 | [nda-cunh/SupraSnake](https://github.com/nda-cunh/SupraSnake) | a vim9script plugin for Add a SnakeGame ! | ⭐3 |
 
 ## Guides
 
 |     |     |     |
 | --- | --- | --- |
-| [ShayHill/article_install_vim_in_windows](https://github.com/ShayHill/article_install_vim_in_windows) | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐11 |
+| [ShayHill/article_install_vim_in_windows](https://github.com/ShayHill/article_install_vim_in_windows) | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐12 |
 
 ## Integrations
 
 |     |     |     |
 | --- | --- | --- |
+| [DanBradbury/copilot-chat.vim](https://github.com/DanBradbury/copilot-chat.vim) | Copilot Chat for Vim | ⭐120 |
 | [DanBradbury/github-actions.vim](https://github.com/DanBradbury/github-actions.vim) | Interact with GitHub Actions in vim | ⭐2 |
 | [bfrg/vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ⭐8 |
 | [gcanat/texpresso.vim9](https://github.com/gcanat/texpresso.vim9) | vim mode for texpresso | ⭐1 |
@@ -128,13 +129,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐1 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐641 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐655 |
 
 ## Libraries
 
 |     |     |     |
 | --- | --- | --- |
-| [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate/tree/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐955 |
+| [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate/tree/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐953 |
 | [lifepillar/vim-devel](https://github.com/lifepillar/vim-devel) | The workbench for modern Vim development  | ⭐16 |
 | [pit-ray/vim-autograd](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ⭐28 |
 
@@ -146,7 +147,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [jessepav/vim-boxdraw](https://github.com/jessepav/vim-boxdraw) | Vim 9 plugin to draw boxes, tables, and lines | ⭐8 |
 | [lacygoill/vim9asm](https://github.com/lacygoill/vim9asm) | *No description provided.* | ⭐21 |
 | [mao-yining/competitest.vim](https://github.com/mao-yining/competitest.vim) | CompetiTest.vim is a Vim plugin for Competitive Programming: it can manage and check testcases, download problems and contests from online judges and much more. | ⭐3 |
-| [nda-cunh/SupraIcons](https://github.com/nda-cunh/SupraIcons) | Vim9Script plugin, rewrite of vim-devicons but better (beta) | ⭐1 |
+| [nda-cunh/SupraIcons](https://github.com/nda-cunh/SupraIcons) | Icons and Palette plugin vim9 | ⭐1 |
 | [sevehub/vim9psgrep](https://github.com/sevehub/vim9psgrep) | vim9psgrep is a Vim9script plugin that integrates the power of ripgrep with Vim, utilizing PowerShell scripts and Visual Basic popups  | ⭐1 |
 | [ubaldot/vim-calendar](https://github.com/ubaldot/vim-calendar) | Calendar in Vim9 | ⭐2 |
 | [ubaldot/vim-helpme](https://github.com/ubaldot/vim-helpme) | Can't you remember stuff? Try this! | ⭐11 |
@@ -190,7 +191,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [kennypete/vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ⭐10 |
 | [kennypete/vim9-winswap](https://github.com/kennypete/vim9-winswap) | A Vim9 script plugin enabling easy swapping and putting of windows | ⭐2 |
-| [nda-cunh/indent_rainbow_vim](https://github.com/nda-cunh/indent_rainbow_vim) | vim9 plugin for indent_rainbow from supravim | ⭐1 |
+| [nda-cunh/indent_rainbow_vim](https://github.com/nda-cunh/indent_rainbow_vim) | vim9 plugin for indent_rainbow from supravim | ⭐2 |
 | [noscript/elevator.vim](https://github.com/noscript/elevator.vim) | Scrollbar for VIM | ⭐11 |
 | [noscript/taberian.vim](https://github.com/noscript/taberian.vim) | Clickable tabs per VIM window | ⭐19 |
 | [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this!   | ⭐6 |
