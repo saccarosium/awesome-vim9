@@ -30,7 +30,7 @@ https://github.com/ubaldot/vim-writegood
 # File Management
 
 https://github.com/habamax/vim-dir
-https://github.com/nda-cunh/SupraTree
+https://github.com/nda-cunh/SupraWater
 https://github.com/saccarosium/vim-netrw-salad
 https://github.com/ubaldot/vim-open-recent
 https://github.com/ycm/poplar.vim
