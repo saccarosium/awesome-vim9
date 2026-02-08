@@ -121,6 +121,7 @@ https://github.com/kennypete/vim-tene
 
 https://github.com/kennypete/vim-popped
 https://github.com/kennypete/vim9-winswap
+https://github.com/mao-yining/undotree.vim
 https://github.com/nda-cunh/indent_rainbow_vim
 https://github.com/noscript/elevator.vim
 https://github.com/noscript/taberian.vim
