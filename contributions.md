@@ -125,6 +125,7 @@ https://github.com/nda-cunh/indent_rainbow_vim
 https://github.com/noscript/elevator.vim
 https://github.com/noscript/taberian.vim
 https://github.com/ubaldot/vim-extended-view
+https://github.com/mao-yining/undotree.vim
 
 # Vimrc
 
