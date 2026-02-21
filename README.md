@@ -89,8 +89,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) | Run fzy asynchronously in a Vim (popup) terminal-window | ⭐16 |
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ⭐89 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |
-| [ubaldot/vim-poptools](https://github.com/ubaldot/vim-poptools) | Exploit popups as much as you can! | ⭐18 |
-| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Modern fuzzy finder for Vim with minimal dependencies | ⭐140 |
+| [ubaldot/vim-poptools](https://github.com/ubaldot/vim-poptools) | Exploit popups as much as you can! | ⭐19 |
+| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Modern fuzzy finder for Vim with minimal dependencies | ⭐141 |
 
 ## Games
 
@@ -98,6 +98,12 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [nda-cunh/SupraPacman](https://github.com/nda-cunh/SupraPacman) | vim9.1 plugin for playing to pacman in vim | ⭐11 |
 | [nda-cunh/SupraSnake](https://github.com/nda-cunh/SupraSnake) | a vim9script plugin for Add a SnakeGame ! | ⭐3 |
+| [yegappan/battleship](https://github.com/yegappan/battleship) | Battleship game for Vim | ⭐8 |
+| [yegappan/game2048](https://github.com/yegappan/game2048) | Game 2048 implemented using Vim9script | ⭐0 |
+| [yegappan/minesweeper](https://github.com/yegappan/minesweeper) | Minesweeper game using Vim9script | ⭐2 |
+| [yegappan/number-puzzle](https://github.com/yegappan/number-puzzle) | Sliding number puzzle game written in Vim9script | ⭐4 |
+| [yegappan/snake](https://github.com/yegappan/snake) | Snake Game in Vim9script | ⭐2 |
+| [yegappan/tic-tac-toe](https://github.com/yegappan/tic-tac-toe) | Tic-Tac-Toe game in Vim9script | ⭐3 |
 
 ## Guides
 
@@ -109,7 +115,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [DanBradbury/copilot-chat.vim](https://github.com/DanBradbury/copilot-chat.vim) | Copilot Chat for Vim | ⭐122 |
+| [DanBradbury/copilot-chat.vim](https://github.com/DanBradbury/copilot-chat.vim) | Copilot Chat for Vim | ⭐125 |
 | [DanBradbury/github-actions.vim](https://github.com/DanBradbury/github-actions.vim) | Interact with GitHub Actions in vim | ⭐2 |
 | [bfrg/vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ⭐8 |
 | [gcanat/texpresso.vim9](https://github.com/gcanat/texpresso.vim9) | vim mode for texpresso | ⭐2 |
@@ -118,7 +124,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [noscript/bazel.vim](https://github.com/noscript/bazel.vim) | Google Bazel integration for Vim | ⭐6 |
 | [sevehub/vim9lua](https://github.com/sevehub/vim9lua) | This Vim9Script plugin allows users to execute the contents of the current buffer as a Lua script using Windows PowerShell. It provides a way to test and run Lua code directly from Vim, enhancing the development workflow for Lua programmers.  | ⭐0 |
 | [ubaldot/vim-conda-activate](https://github.com/ubaldot/vim-conda-activate) | Activate Conda environments in Vim. | ⭐18 |
-| [ubaldot/vim-manim](https://github.com/ubaldot/vim-manim) | Render your manim-ations from Vim. | ⭐5 |
+| [ubaldot/vim-manim](https://github.com/ubaldot/vim-manim) | Render your manim-ations from Vim. | ⭐6 |
 | [ubaldot/vim-microdebugger](https://github.com/ubaldot/vim-microdebugger) | A tiny plugin on top of Termdebug for remote debugging (docker, MCUs, etc) | ⭐6 |
 | [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) | Enjoy Jupyter through Vim! | ⭐30 |
 | [wolandark/vimdict](https://github.com/wolandark/vimdict) | A Simple Wrapper Over The Dict CLI Utility For Vim9 | ⭐3 |
@@ -130,7 +136,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐1 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐676 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐688 |
 
 ## Libraries
 
@@ -162,7 +168,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [girishji/easyjump.vim](https://github.com/girishji/easyjump.vim) | The Vim motion you've always wanted. | ⭐18 |
 | [girishji/fFtT.vim](https://github.com/girishji/fFtT.vim) | More accurate f, F, t, T navigation in Vim. | ⭐9 |
-| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 | ⭐118 |
+| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 | ⭐119 |
 
 ## Plugin Management
 
@@ -174,8 +180,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [bfrg/vim-qf-diagnostics](https://github.com/bfrg/vim-qf-diagnostics) | Highlight quickfix errors, and display error messages as virtual text or in a popup window | ⭐29 |
-| [bfrg/vim-qf-history](https://github.com/bfrg/vim-qf-history) | Navigate Vim's quickfix and location-list history using a popup menu | ⭐12 |
+| [bfrg/vim-qf-diagnostics](https://github.com/bfrg/vim-qf-diagnostics) | Highlight quickfix errors, and display error messages as virtual text or in a popup window | ⭐30 |
+| [bfrg/vim-qf-history](https://github.com/bfrg/vim-qf-history) | Navigate Vim's quickfix and location-list history using a popup menu | ⭐13 |
 | [bfrg/vim-qf-preview](https://github.com/bfrg/vim-qf-preview) | Preview the quickfix item under the cursor in a popup window | ⭐54 |
 
 ## Statusline
