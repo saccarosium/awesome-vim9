@@ -49,7 +49,8 @@ https://github.com/nda-cunh/SupraPacman
 https://github.com/nda-cunh/SupraSnake
 https://github.com/yegappan/number-puzzle
 https://github.com/yegappan/battleship
-https://github.com/yegappan/number-puzzle
+https://github.com/yegappan/game2048
+https://github.com/yegappan/minesweeper#
 
 # Guides
 
