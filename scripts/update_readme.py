@@ -1,9 +1,14 @@
-"""Updat the README file to reflect `contributions.md`.
+"""Update the README file to reflect `contributions.md`.
 
+# For links like https://github.com/habamax/.vim
 - Query the GitHub API to get the description and star count for each repository
   listed in `contributions.md`.
 - Lay this information out in the README file.
 - Format and sort `contributions.md`.
+
+# For links like https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter
+- set description to a f":h package-{Path(repo_url).stem}"
+- set star count to __N/A__
 
 The user does not need to run this script. Just update `contributions.md` and submit
 a pull request.
@@ -12,20 +17,21 @@ a pull request.
 :created: 2025-07-28
 """
 
-import datetime
 import dataclasses
+import datetime
 import os
-from pathlib import Path
-import subprocess
-
-from collections.abc import Iterator
-import requests
 import re
+import subprocess
+from collections.abc import Iterator
+from pathlib import Path
+
+import requests
 
 _CONTRIBUTIONS = Path(__file__).parents[1] / "contributions.md"
 _README_HEADER = Path(__file__).parent / "readme_header.md"
 _README = Path(__file__).parents[1] / "README.md"
 _CONGRATULATIONS = Path(__file__).parent / "congratulations.md"
+
 
 def _build_readme_table_row_pattern() -> re.Pattern:
     """Build a regex pattern to match the table rows in README.md."""
@@ -36,7 +42,9 @@ def _build_readme_table_row_pattern() -> re.Pattern:
         r"\s*\|\s*".join([sign_col, url_col, ".*", stars_col]) + r"\s*\|$"
     )
 
+
 _RE_TR = _build_readme_table_row_pattern()
+
 
 def _crossed_star_milestone(old_stars: int, new_stars: int) -> bool:
     """Check if the star count crossed a threshold.
@@ -67,7 +75,7 @@ def _crossed_star_milestone(old_stars: int, new_stars: int) -> bool:
 
 def _iter_star_changes() -> Iterator[tuple[str, int, int]]:
     """Yield updated star counts from README.md diff.
-    
+
     :yield: Tuple of (repository name, old star count, new star count).
     """
     result = subprocess.run(
@@ -85,12 +93,13 @@ def _iter_star_changes() -> Iterator[tuple[str, int, int]]:
             sub_anchor = anchor
             sub_stars = int(stars)
         elif sign == "+":
-            if anchor != sub_anchor: # an addition, not a replacement
+            if anchor != sub_anchor:  # an addition, not a replacement
                 continue
             yield anchor, sub_stars, int(stars)
         else:
             msg = f"Unexpected sign '{sign}' in diff row: {row}"
             raise ValueError(msg)
+
 
 def log_star_milestones() -> None:
     """Log star milestones to the console."""
@@ -122,7 +131,7 @@ def _get_api_url_from_repo_url(repo_url: str) -> str:
         repo = parts[github_index + 2]
     except IndexError as e:
         msg = (
-            f"Invalid GitHub URL format."
+            "Invalid GitHub URL format."
             + " Expected: 'https://github.com/owner/repo'. Got '{repo_url}'"
         )
         raise ValueError(msg) from e
@@ -155,10 +164,14 @@ def _get_repo_info(repo_url: str, token: str) -> RepoInfo:
     response.raise_for_status()
     data = response.json()
 
-    return RepoInfo(
-        data.get("description") or "*No description provided.*",
-        data.get("stargazers_count"),
-    )
+    description = data.get("description") or "*No description provided.*"
+    stargazers_count = data.get("stargazers_count")
+
+    if description == "The official Vim repository":
+        description = f":h package-{Path(repo_url).stem}"
+        stargazers_count = None
+
+    return RepoInfo(description, stargazers_count)
 
 
 @dataclasses.dataclass(order=True)
@@ -231,7 +244,7 @@ def _overwrite_contributions_md(contributions: list[Contribution]) -> None:
             category = contribution.category
             category_groups.append([category])
         category_groups[-1].append(contribution.url)
-    category_strings = (f"# {x[0]}\n\n{"\n".join(x[1:])}" for x in category_groups)
+    category_strings = (f"# {x[0]}\n\n{'\n'.join(x[1:])}" for x in category_groups)
     _CONTRIBUTIONS.write_text("\n\n".join(category_strings) + "\n")
 
 
@@ -262,12 +275,12 @@ def _overwrite_readme(contributions: list[Contribution]) -> None:
         if contribution.category != heading:
             heading = contribution.category
             content_lines.extend(
-                [f"\n## {heading}", "", f"|     |     |     |", f"| --- | --- | --- |"]
+                [f"\n## {heading}", "", "|     |     |     |", "| --- | --- | --- |"]
             )
         columns = (
             f"[{contribution.name}]({contribution.url})",
             contribution.description,
-            f"⭐{contribution.stars}",
+            f"⭐{contribution.stars}" if contribution.stars is not None else "__N/A__",
         )
         content_lines.append(f"| {' | '.join(columns)} |")
 

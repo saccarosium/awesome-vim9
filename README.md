@@ -30,6 +30,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 - [Quickfix](#quickfix)
 - [Statusline](#statusline)
 - [UI](#ui)
+- [Vim Internal](#vim-internal)
 - [Vimrc](#vimrc)
 
 ---
@@ -203,6 +204,18 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [noscript/elevator.vim](https://github.com/noscript/elevator.vim) | Scrollbar for VIM | ⭐12 |
 | [noscript/taberian.vim](https://github.com/noscript/taberian.vim) | Clickable tabs per VIM window | ⭐19 |
 | [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this!   | ⭐6 |
+
+## Vim Internal
+
+|     |     |     |
+| --- | --- | --- |
+| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) | :h package-cfilter | __N/A__ |
+| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) | :h package-comment | __N/A__ |
+| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) | :h package-helpcurwin | __N/A__ |
+| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) | :h package-helptoc | __N/A__ |
+| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) | :h package-hlyank | __N/A__ |
+| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) | :h package-osc52 | __N/A__ |
+| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) | :h package-termdebug | __N/A__ |
 
 ## Vimrc
 

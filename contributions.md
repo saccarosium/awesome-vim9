@@ -133,6 +133,16 @@ https://github.com/noscript/elevator.vim
 https://github.com/noscript/taberian.vim
 https://github.com/ubaldot/vim-extended-view
 
+# Vim Internal
+
+https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter
+https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/
+https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin
+https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc
+https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/
+https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52
+https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug
+
 # Vimrc
 
 https://github.com/habamax/.vim
