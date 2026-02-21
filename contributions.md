@@ -130,3 +130,4 @@ https://github.com/ubaldot/vim-extended-view
 # Vimrc
 
 https://github.com/kennypete/.vimrc
+https://github.com/habamax/.vim
