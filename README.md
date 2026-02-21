@@ -209,13 +209,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) | :h package-cfilter | __N/A__ |
-| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) | :h package-comment | __N/A__ |
-| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) | :h package-helpcurwin | __N/A__ |
-| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) | :h package-helptoc | __N/A__ |
-| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) | :h package-hlyank | __N/A__ |
-| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) | :h package-osc52 | __N/A__ |
-| [vim/vim](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) | :h package-termdebug | __N/A__ |
+| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) | :h package-cfilter | __N/A__ |
+| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) | :h package-comment | __N/A__ |
+| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) | :h package-helpcurwin | __N/A__ |
+| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) | :h package-helptoc | __N/A__ |
+| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) | :h package-hlyank | __N/A__ |
+| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) | :h package-osc52 | __N/A__ |
+| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) | :h package-termdebug | __N/A__ |
 
 ## Vimrc
 

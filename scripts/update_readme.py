@@ -277,8 +277,12 @@ def _overwrite_readme(contributions: list[Contribution]) -> None:
             content_lines.extend(
                 [f"\n## {heading}", "", "|     |     |     |", "| --- | --- | --- |"]
             )
+        if contribution.description.startswith(":h "):
+            description = f"vim/.../pack/.../{Path(contribution.url).stem}"
+        else:
+            description = contribution.name
         columns = (
-            f"[{contribution.name}]({contribution.url})",
+            f"[{description}]({contribution.url})",
             contribution.description,
             f"⭐{contribution.stars}" if contribution.stars is not None else "__N/A__",
         )
