@@ -208,4 +208,5 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
+| [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐80 |
 | [kennypete/.vimrc](https://github.com/kennypete/.vimrc) | My .vimrc | ⭐4 |
