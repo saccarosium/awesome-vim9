@@ -47,6 +47,12 @@ https://github.com/vim-fuzzbox/fuzzbox.vim
 
 https://github.com/nda-cunh/SupraPacman
 https://github.com/nda-cunh/SupraSnake
+https://github.com/yegappan/number-puzzle
+https://github.com/yegappan/battleship
+https://github.com/yegappan/game2048
+https://github.com/yegappan/minesweeper
+https://github.com/yegappan/snake
+https://github.com/yegappan/tic-tac-toe
 
 # Guides
 
