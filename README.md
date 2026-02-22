@@ -100,10 +100,12 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [nda-cunh/SupraPacman](https://github.com/nda-cunh/SupraPacman) | vim9.1 plugin for playing to pacman in vim | ⭐11 |
 | [nda-cunh/SupraSnake](https://github.com/nda-cunh/SupraSnake) | a vim9script plugin for Add a SnakeGame ! | ⭐3 |
 | [yegappan/battleship](https://github.com/yegappan/battleship) | Battleship game for Vim | ⭐8 |
-| [yegappan/game2048](https://github.com/yegappan/game2048) | Game 2048 implemented using Vim9script | ⭐0 |
-| [yegappan/minesweeper](https://github.com/yegappan/minesweeper) | Minesweeper game using Vim9script | ⭐2 |
-| [yegappan/number-puzzle](https://github.com/yegappan/number-puzzle) | Sliding number puzzle game written in Vim9script | ⭐4 |
+| [yegappan/game2048](https://github.com/yegappan/game2048) | Game 2048 implemented using Vim9script | ⭐1 |
+| [yegappan/minesweeper](https://github.com/yegappan/minesweeper) | Minesweeper game using Vim9script | ⭐1 |
+| [yegappan/nonogram](https://github.com/yegappan/nonogram) | Nonogram game written in Vim9script | ⭐2 |
+| [yegappan/number-puzzle](https://github.com/yegappan/number-puzzle) | Sliding number puzzle game written in Vim9script | ⭐3 |
 | [yegappan/snake](https://github.com/yegappan/snake) | Snake Game in Vim9script | ⭐2 |
+| [yegappan/tetris](https://github.com/yegappan/tetris) | Tetris game in Vim9script | ⭐1 |
 | [yegappan/tic-tac-toe](https://github.com/yegappan/tic-tac-toe) | Tic-Tac-Toe game in Vim9script | ⭐3 |
 
 ## Guides
@@ -111,6 +113,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [ShayHill/article_install_vim_in_windows](https://github.com/ShayHill/article_install_vim_in_windows) | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐14 |
+| [yegappan/design-patterns](https://github.com/yegappan/design-patterns) | Design patterns in Vim9script | ⭐3 |
 
 ## Integrations
 
@@ -198,7 +201,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [kennypete/vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ⭐10 |
-| [kennypete/vim9-winswap](https://github.com/kennypete/vim9-winswap) | A Vim9 script plugin enabling easy swapping and putting of windows | ⭐2 |
+| [kennypete/vim9-winswap](https://github.com/kennypete/vim9-winswap) | A Vim9 script plugin enabling easy swapping and putting of windows | ⭐3 |
 | [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) | The undo history visualizer for VIM | ⭐3 |
 | [nda-cunh/indent_rainbow_vim](https://github.com/nda-cunh/indent_rainbow_vim) | vim9 plugin for indent_rainbow from supravim | ⭐2 |
 | [noscript/elevator.vim](https://github.com/noscript/elevator.vim) | Scrollbar for VIM | ⭐12 |
