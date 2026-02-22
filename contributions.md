@@ -57,6 +57,7 @@ https://github.com/yegappan/tic-tac-toe
 # Guides
 
 https://github.com/ShayHill/article_install_vim_in_windows
+https://github.com/yegappan/design-patterns
 
 # Integrations
 
