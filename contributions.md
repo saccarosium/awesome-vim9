@@ -54,6 +54,7 @@ https://github.com/yegappan/number-puzzle
 https://github.com/yegappan/snake
 https://github.com/yegappan/tic-tac-toe
 https://github.com/yegappan/tetris
+https://github.com/yegappan/nonogram
 
 # Guides
 
