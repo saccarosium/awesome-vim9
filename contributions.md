@@ -76,6 +76,7 @@ https://github.com/ubaldot/vim-manim
 https://github.com/ubaldot/vim-microdebugger
 https://github.com/ubaldot/vim-replica
 https://github.com/wolandark/vimdict
+https://github.com/rishi-opensource/vim-claude-code
 
 # Language Server Protocol
 
