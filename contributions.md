@@ -70,7 +70,6 @@ https://github.com/gcanat/texpresso.vim9
 https://github.com/hahdookin/miniterm.vim
 https://github.com/mao-yining/gv.vim
 https://github.com/noscript/bazel.vim
-https://github.com/rishi-opensource/vim-claude-code
 https://github.com/sevehub/vim9lua
 https://github.com/ubaldot/vim-conda-activate
 https://github.com/ubaldot/vim-manim
