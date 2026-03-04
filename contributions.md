@@ -1,3 +1,7 @@
+# AI Assistants
+
+https://github.com/greeschenko/vim9-ollama
+
 # Color Scheme
 
 https://github.com/kratuvid/vim9-gruvbox
