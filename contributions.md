@@ -1,5 +1,6 @@
 # AI Assistants
 
+https://github.com/DanBradbury/copilot-chat.vim
 https://github.com/greeschenko/vim9-ollama
 
 # Color Scheme
@@ -67,7 +68,6 @@ https://github.com/yegappan/design-patterns
 
 # Integrations
 
-https://github.com/DanBradbury/copilot-chat.vim
 https://github.com/DanBradbury/github-actions.vim
 https://github.com/bfrg/vim-cmake-help
 https://github.com/gcanat/texpresso.vim9
