@@ -97,6 +97,7 @@ https://github.com/pit-ray/vim-autograd/tree/vim9
 
 # Miscellaneous
 
+https://github.com/arcmags/vim-srt
 https://github.com/habamax/vim-ii
 https://github.com/jessepav/vim-boxdraw
 https://github.com/lacygoill/vim9asm
