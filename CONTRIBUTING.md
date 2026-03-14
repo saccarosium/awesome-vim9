@@ -1,4 +1,4 @@
-# Guide on how to contribute (GitHub repos only)
+# Guide on how to contribute (GitHub or Codeberg repos only)
 
 ## Alternative
 
@@ -8,9 +8,9 @@ Open an issue with the link to your plugin, and I will add it for you. If you'd 
 
 <img src="assets/fork-button.png" alt="Github Fork Button">
 
-## Second: add a GitHub link.
+## Second: add a GitHub or Codeberg link.
 
-Add a GitHub link to your plugin under a category heading in `contributions.md`. If you do not see an appropriate category for your plugin, feel free to create one.
+Add a GitHub or Codeberg link to your plugin under a category heading in `contributions.md`. If you do not see an appropriate category for your plugin, feel free to create one.
 
 ```patch
 # Color Scheme

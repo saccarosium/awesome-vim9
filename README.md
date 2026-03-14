@@ -100,7 +100,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ⭐89 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |
 | [ubaldot/vim-poptools](https://github.com/ubaldot/vim-poptools) | Exploit popups as much as you can! | ⭐19 |
-| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Modern fuzzy finder for Vim with minimal dependencies | ⭐145 |
+| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Modern fuzzy finder for Vim with minimal dependencies | ⭐144 |
 
 ## Games
 
@@ -148,7 +148,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐1 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐696 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐698 |
 
 ## Libraries
 
@@ -162,6 +162,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
+| [arcmags/vim-srt](https://github.com/arcmags/vim-srt) | Vim9 subtitle filetype plugin | ⭐1 |
 | [habamax/vim-ii](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ⭐12 |
 | [jessepav/vim-boxdraw](https://github.com/jessepav/vim-boxdraw) | Vim 9 plugin to draw boxes, tables, and lines | ⭐8 |
 | [lacygoill/vim9asm](https://github.com/lacygoill/vim9asm) | *No description provided.* | ⭐22 |
@@ -172,7 +173,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [ubaldot/vim-helpme](https://github.com/ubaldot/vim-helpme) | Can't you remember stuff? Try this! | ⭐11 |
 | [ubaldot/vim-outline](https://github.com/ubaldot/vim-outline) | A simple outline sketcher for different filetypes. | ⭐23 |
 | [ubaldot/vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid) | A little help for upgrading your scripts to vim9 language. | ⭐12 |
-| [wolandark/vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji) | An easy emoji plugin for vim written in vim9script | ⭐10 |
+| [wolandark/vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji) | An easy emoji plugin for vim written in vim9script | ⭐11 |
 
 ## Motion
 
@@ -232,5 +233,5 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐81 |
+| [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐82 |
 | [kennypete/.vimrc](https://github.com/kennypete/.vimrc) | My .vimrc | ⭐4 |

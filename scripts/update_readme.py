@@ -1,8 +1,8 @@
 """Update the README file to reflect `contributions.md`.
 
-# For links like https://github.com/habamax/.vim
-- Query the GitHub API to get the description and star count for each repository
-  listed in `contributions.md`.
+# For links like https://github.com/habamax/.vim or https://codeberg.org/owner/repo
+- Query the GitHub or Codeberg API to get the description and star count for each
+  repository listed in `contributions.md`.
 - Lay this information out in the README file.
 - Format and sort `contributions.md`.
 
@@ -44,6 +44,13 @@ def _build_readme_table_row_pattern() -> re.Pattern:
 
 
 _RE_TR = _build_readme_table_row_pattern()
+
+
+# ==============================================================================
+#
+#   Star milestone tracking
+#
+# ==============================================================================
 
 
 def _crossed_star_milestone(old_stars: int, new_stars: int) -> bool:
@@ -117,61 +124,116 @@ def log_star_milestones() -> None:
                 )
 
 
-def _get_api_url_from_repo_url(repo_url: str) -> str:
-    """Format a GitHub repository URL into the API URL.
+# ==============================================================================
+#
+#   Update description and star count for each contribution
+#
+# ==============================================================================
 
-    :param repo_url: The GitHub repository URL: https://github.com/owner/repo
-    :return: The formatted API URL: https://api.github.com/repos/owner/repo
+
+def _parse_repo_url(repo_url: str) -> tuple[str, str, str]:
+    """Parse a repository URL into host, owner, and repo.
+
+    :param repo_url: Repository URL (e.g. https://github.com/owner/repo or
+        https://codeberg.org/owner/repo)
+    :return: Tuple of (host, owner, repo)
     :raises ValueError: If the URL is not in the expected format.
     """
+    supported_hosts = ("github.com", "codeberg.org")
     try:
         parts = repo_url.rstrip("/").split("/")
-        github_index = parts.index("github.com") if "github.com" in parts else -1
-        owner = parts[github_index + 1]
-        repo = parts[github_index + 2]
+        host_index = next(
+            (i for i, p in enumerate(parts) if p in supported_hosts),
+            -1,
+        )
+        if host_index < 0:
+            msg = (
+                f"Unsupported repository host. Expected one of {supported_hosts}. "
+                f"Got '{repo_url}'"
+            )
+            raise ValueError(msg)
+        host = parts[host_index]
+        owner = parts[host_index + 1]
+        repo = parts[host_index + 2]
     except IndexError as e:
         msg = (
-            "Invalid GitHub URL format."
-            + " Expected: 'https://github.com/owner/repo'. Got '{repo_url}'"
+            "Invalid repository URL format. "
+            f"Expected: 'https://github.com/owner/repo' or 'https://codeberg.org/owner/repo'. "
+            f"Got '{repo_url}'"
         )
         raise ValueError(msg) from e
 
-    return f"https://api.github.com/repos/{owner}/{repo}"
+    return host, owner, repo
+
+
+def _get_api_url_from_repo_url(repo_url: str) -> str:
+    """Format a repository URL into the API URL.
+
+    :param repo_url: Repository URL (GitHub or Codeberg)
+    :return: The formatted API URL for the appropriate service
+    :raises ValueError: If the URL is not in the expected format.
+    """
+    host, owner, repo = _parse_repo_url(repo_url)
+    if host == "github.com":
+        return f"https://api.github.com/repos/{owner}/{repo}"
+    if host == "codeberg.org":
+        return f"https://codeberg.org/api/v1/repos/{owner}/{repo}"
+    msg = f"Unsupported host: {host}"
+    raise ValueError(msg)
 
 
 @dataclasses.dataclass
 class RepoInfo:
-    """Hold description and star count for a GitHub repository."""
+    """Hold description and star count for a code hosting service repository."""
 
     description: str
-    stars: int
+    stars: int | None
 
 
-def _get_repo_info(repo_url: str, token: str) -> RepoInfo:
-    """Get repository information from GitHub API.
+@dataclasses.dataclass
+class _Tokens:
+    """API tokens for supported code hosting services."""
 
-    :param repo_url: The GitHub repository URL: https://github.com/owner/repo
-    :param token: GitHub API token for authentication.
-    :return: A dictionary with repository description and star count.
+    github: str
+    codeberg: str
+
+
+def _get_repo_info(repo_url: str, tokens: _Tokens) -> RepoInfo:
+    """Get repository information from GitHub or Codeberg API.
+
+    :param repo_url: Repository URL (GitHub or Codeberg)
+    :param tokens: API tokens for authentication
+    :return: Repository description and star count
     """
+    host, owner, repo = _parse_repo_url(repo_url)
     api_url = _get_api_url_from_repo_url(repo_url)
-    api_headers = {
-        "Authorization": f"token {token}",
-        "Accept": "application/vnd.github.v3+json",
-    }
 
-    response = requests.get(api_url, headers=api_headers)
-    response.raise_for_status()
-    data = response.json()
-
-    description = data.get("description") or "*No description provided.*"
-    stargazers_count = data.get("stargazers_count")
+    if host == "github.com":
+        headers = {
+            "Authorization": f"token {tokens.github}",
+            "Accept": "application/vnd.github.v3+json",
+        }
+        response = requests.get(api_url, headers=headers)
+        response.raise_for_status()
+        data = response.json()
+        description = data.get("description") or "*No description provided.*"
+        stars = data.get("stargazers_count")
+    else:
+        headers = {
+            "Authorization": f"token {tokens.codeberg}",
+            "Accept": "application/json",
+        }
+        response = requests.get(api_url, headers=headers)
+        response.raise_for_status()
+        data = response.json()
+        description = data.get("description") or "*No description provided.*"
+        stars = data.get("stars_count")
 
     if description == "The official Vim repository":
         description = f":h package-{Path(repo_url).stem}"
-        stargazers_count = None
+        stars = None
 
-    return RepoInfo(description, stargazers_count)
+    return RepoInfo(description, stars)
 
 
 @dataclasses.dataclass(order=True)
@@ -180,7 +242,7 @@ class Contribution:
 
     category: str
     url: str
-    token: str = dataclasses.field(repr=False, compare=False)
+    tokens: _Tokens = dataclasses.field(repr=False, compare=False)
 
     def __post_init__(self) -> None:
         """Post-initialization processing."""
@@ -189,14 +251,14 @@ class Contribution:
     @property
     def name(self) -> str:
         """Get the name of the contribution."""
-        api_url = _get_api_url_from_repo_url(self.url)
-        return "/".join(api_url.split("/")[-2:])
+        _, owner, repo = _parse_repo_url(self.url)
+        return f"{owner}/{repo}"
 
     @property
     def _repo_info(self) -> RepoInfo:
         """Get the repository information, caching it."""
         if self.__repo_info is None:
-            self.__repo_info = _get_repo_info(self.url, self.token)
+            self.__repo_info = _get_repo_info(self.url, self.tokens)
         return self.__repo_info
 
     @property
@@ -210,10 +272,11 @@ class Contribution:
         return self._repo_info.stars
 
 
-def _read_contributions(token: str) -> list[Contribution]:
-    """Read d format `contributions.md` into a sorted list.
+def _read_contributions(tokens: _Tokens) -> list[Contribution]:
+    """Read and format `contributions.md` into a sorted list.
 
-    :return: (category, url) for each contribution.
+    :param tokens: API tokens for GitHub and Codeberg
+    :return: Sorted list of contributions
     :effect: sorts and formats `contributions.md`
     """
     lines = (x.strip() for x in _CONTRIBUTIONS.read_text().splitlines())
@@ -228,7 +291,7 @@ def _read_contributions(token: str) -> list[Contribution]:
             heading = line.lstrip("# ")
         else:
             contributions.add((heading, line))
-    return sorted([Contribution(x[0], x[1], token) for x in contributions])
+    return sorted([Contribution(x[0], x[1], tokens) for x in contributions])
 
 
 def _overwrite_contributions_md(contributions: list[Contribution]) -> None:
@@ -296,9 +359,13 @@ def _overwrite_readme(contributions: list[Contribution]) -> None:
 def main() -> None:
     """Main function to update the README file."""
     github_token = os.getenv("GITHUB_TOKEN")
+    codeberg_token = os.getenv("CODEBERG_TOKEN")
     if github_token is None:
         github_token = input("Enter your GitHub token for api requests: ").strip()
-    contributions = _read_contributions(github_token)
+    if codeberg_token is None:
+        codeberg_token = input("Enter your Codeberg token for api requests: ").strip()
+    tokens = _Tokens(github=github_token, codeberg=codeberg_token)
+    contributions = _read_contributions(tokens)
     _overwrite_contributions_md(contributions)
     _overwrite_readme(contributions)
     print("done")
