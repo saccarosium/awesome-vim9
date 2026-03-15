@@ -102,7 +102,7 @@ https://github.com/arcmags/vim-srt
 https://github.com/habamax/vim-ii
 https://github.com/jessepav/vim-boxdraw
 https://github.com/lacygoill/vim9asm
-https://github.com/mao-yining/competitest.vim
+https://codeberg.org/mao-yining/vim-competitest
 https://github.com/nda-cunh/SupraIcons
 https://github.com/sevehub/vim9psgrep
 https://github.com/ubaldot/vim-calendar
