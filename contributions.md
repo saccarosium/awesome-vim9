@@ -5,9 +5,9 @@ https://github.com/greeschenko/vim9-ollama
 
 # Color Scheme
 
+https://codeberg.org/mao-yining/vim-catppuccin
 https://github.com/kratuvid/vim9-gruvbox
 https://github.com/zhixiao-zhang/vim-light-pink
-https://codeberg.org/mao-yining/vim-catppuccin
 
 # Command Execution
 
@@ -98,11 +98,11 @@ https://github.com/pit-ray/vim-autograd/tree/vim9
 
 # Miscellaneous
 
+https://codeberg.org/mao-yining/vim-competitest
 https://github.com/arcmags/vim-srt
 https://github.com/habamax/vim-ii
 https://github.com/jessepav/vim-boxdraw
 https://github.com/lacygoill/vim9asm
-https://codeberg.org/mao-yining/vim-competitest
 https://github.com/nda-cunh/SupraIcons
 https://github.com/sevehub/vim9psgrep
 https://github.com/ubaldot/vim-calendar
@@ -155,6 +155,6 @@ https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug
 
 # Vimrc
 
+https://codeberg.org/mao-yining/dotfile_vim
 https://github.com/habamax/.vim
 https://github.com/kennypete/.vimrc
-https://codeberg.org/mao-yining/dotfile_vim
