@@ -7,6 +7,7 @@ https://github.com/greeschenko/vim9-ollama
 
 https://github.com/kratuvid/vim9-gruvbox
 https://github.com/zhixiao-zhang/vim-light-pink
+https://codeberg.org/mao-yining/vim-catppuccin
 
 # Command Execution
 
@@ -91,8 +92,8 @@ https://github.com/yegappan/lsp/tree/main
 
 # Libraries
 
-https://github.com/lifepillar/vim-colortemplate/tree/v3
-https://github.com/lifepillar/vim-devel
+https://codeberg.org/lifepillar/vim-colortemplate/src/branch/v3
+https://codeberg.org/lifepillar/vim-devel
 https://github.com/pit-ray/vim-autograd/tree/vim9
 
 # Miscellaneous
@@ -101,7 +102,7 @@ https://github.com/arcmags/vim-srt
 https://github.com/habamax/vim-ii
 https://github.com/jessepav/vim-boxdraw
 https://github.com/lacygoill/vim9asm
-https://github.com/mao-yining/competitest.vim
+https://codeberg.org/mao-yining/vim-competitest
 https://github.com/nda-cunh/SupraIcons
 https://github.com/sevehub/vim9psgrep
 https://github.com/ubaldot/vim-calendar
@@ -156,3 +157,4 @@ https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug
 
 https://github.com/habamax/.vim
 https://github.com/kennypete/.vimrc
+https://codeberg.org/mao-yining/dotfile_vim
