@@ -7,6 +7,7 @@ https://github.com/greeschenko/vim9-ollama
 
 https://github.com/kratuvid/vim9-gruvbox
 https://github.com/zhixiao-zhang/vim-light-pink
+https://codeberg.org/mao-yining/vim-catppuccin
 
 # Command Execution
 
