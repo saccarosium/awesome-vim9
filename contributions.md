@@ -91,8 +91,8 @@ https://github.com/yegappan/lsp/tree/main
 
 # Libraries
 
-https://github.com/lifepillar/vim-colortemplate/tree/v3
-https://github.com/lifepillar/vim-devel
+https://codeberg.org/lifepillar/vim-colortemplate/src/branch/v3
+https://codeberg.org/lifepillar/vim-devel
 https://github.com/pit-ray/vim-autograd/tree/vim9
 
 # Miscellaneous
