@@ -236,7 +236,7 @@ def _get_repo_info(repo_url: str, tokens: _Tokens) -> RepoInfo:
     return RepoInfo(description, stars)
 
 
-@dataclasses.dataclass(order=True)
+@dataclasses.dataclass(order=False)
 class Contribution:
     """Readme table column information for a contribution."""
 
@@ -247,12 +247,12 @@ class Contribution:
     def __post_init__(self) -> None:
         """Post-initialization processing."""
         self.__repo_info: RepoInfo | None = None
+        _, self._owner, self._repo = _parse_repo_url(self.url)
 
     @property
     def name(self) -> str:
         """Get the name of the contribution."""
-        _, owner, repo = _parse_repo_url(self.url)
-        return f"{owner}/{repo}"
+        return f"{self._owner}/{self._repo}"
 
     @property
     def _repo_info(self) -> RepoInfo:
@@ -270,6 +270,12 @@ class Contribution:
     def stars(self) -> int:
         """Get the number of stars for the repository."""
         return self._repo_info.stars
+
+    def __lt__(self, other: "Contribution") -> bool:
+        """Compare contributions by stars."""
+        comp_a = (self.category, self._repo.lower(), self._owner.lower(), self.url)
+        comp_b = (other.category, other._repo.lower(), other._owner.lower(), other.url)
+        return comp_a < comp_b
 
 
 def _read_contributions(tokens: _Tokens) -> list[Contribution]:
