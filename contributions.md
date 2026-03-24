@@ -99,6 +99,7 @@ https://codeberg.org/lifepillar/vim-devel
 
 # Miscellaneous
 
+https://github.com/nda-cunh/PropColor
 https://github.com/nda-cunh/SupraIcons
 https://github.com/jessepav/vim-boxdraw
 https://github.com/ubaldot/vim-calendar
