@@ -71,6 +71,7 @@ https://github.com/yegappan/design-patterns
 # Integrations
 
 https://github.com/noscript/bazel.vim
+https://github.com/gh-tui-tools/gh-review.vim
 https://github.com/DanBradbury/github-actions.vim
 https://github.com/mao-yining/gv.vim
 https://github.com/hahdookin/miniterm.vim
@@ -82,7 +83,6 @@ https://github.com/ubaldot/vim-microdebugger
 https://github.com/ubaldot/vim-replica
 https://github.com/sevehub/vim9lua
 https://github.com/wolandark/vimdict
-https://github.com/gh-tui-tools/gh-review.vim
 
 # Language Server Protocol
 
@@ -143,8 +143,8 @@ https://github.com/noscript/taberian.vim
 https://github.com/mao-yining/undotree.vim
 https://github.com/ubaldot/vim-extended-view
 https://github.com/kennypete/vim-popped
-https://github.com/kennypete/vim9-winswap
 https://github.com/mattn/vim-smear-cursor
+https://github.com/kennypete/vim9-winswap
 
 # Vim Internal
 

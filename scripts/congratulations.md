@@ -22,3 +22,4 @@
 2026-03-15T16:31:03.666754 - nda-cunh/vim9-autopairs crossed a star threshold: 0 -> 0 stars.
 2026-03-15T16:31:03.667251 - sevehub/vim9lua crossed a star threshold: 0 -> 0 stars.
 2026-03-15T16:31:03.667620 - mao-yining/dotfile_vim crossed a star threshold: 0 -> 0 stars.
+2026-03-24T06:43:55.826226 - yegappan/lsp crossed a star threshold: 698 -> 704 stars.
