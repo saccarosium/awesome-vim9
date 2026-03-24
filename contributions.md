@@ -144,6 +144,7 @@ https://github.com/mao-yining/undotree.vim
 https://github.com/ubaldot/vim-extended-view
 https://github.com/kennypete/vim-popped
 https://github.com/kennypete/vim9-winswap
+https://github.com/mattn/vim-smear-cursor
 
 # Vim Internal
 
