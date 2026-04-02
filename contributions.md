@@ -83,6 +83,7 @@ https://github.com/ubaldot/vim-microdebugger
 https://github.com/ubaldot/vim-replica
 https://github.com/sevehub/vim9lua
 https://github.com/wolandark/vimdict
+https://github.com/bfrg/vim-jqplay
 
 # Language Server Protocol
 
