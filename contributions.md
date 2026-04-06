@@ -78,12 +78,12 @@ https://github.com/hahdookin/miniterm.vim
 https://github.com/gcanat/texpresso.vim9
 https://github.com/bfrg/vim-cmake-help
 https://github.com/ubaldot/vim-conda-activate
+https://github.com/bfrg/vim-jqplay
 https://github.com/ubaldot/vim-manim
 https://github.com/ubaldot/vim-microdebugger
 https://github.com/ubaldot/vim-replica
 https://github.com/sevehub/vim9lua
 https://github.com/wolandark/vimdict
-https://github.com/bfrg/vim-jqplay
 
 # Language Server Protocol
 

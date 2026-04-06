@@ -23,3 +23,5 @@
 2026-03-15T16:31:03.667251 - sevehub/vim9lua crossed a star threshold: 0 -> 0 stars.
 2026-03-15T16:31:03.667620 - mao-yining/dotfile_vim crossed a star threshold: 0 -> 0 stars.
 2026-03-24T06:43:55.826226 - yegappan/lsp crossed a star threshold: 698 -> 704 stars.
+2026-04-05T21:26:08.150579 - yegappan/battleship crossed a star threshold: 9 -> 10 stars.
+2026-04-05T21:26:08.151117 - nda-cunh/PropColor crossed a star threshold: 0 -> 3 stars.
