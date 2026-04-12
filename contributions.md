@@ -109,7 +109,7 @@ https://github.com/wolandark/vim-ez-emoji
 https://github.com/ubaldot/vim-helpme
 https://github.com/habamax/vim-ii
 https://github.com/ubaldot/vim-outline
-https://github.com/arcmags/vim-srt
+https://codeberg.org/mags/vim-srt
 https://github.com/ubaldot/vim9-conversion-aid
 https://github.com/lacygoill/vim9asm
 https://github.com/sevehub/vim9psgrep
