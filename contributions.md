@@ -32,6 +32,7 @@ https://github.com/ubaldot/vim-writegood
 https://github.com/nda-cunh/vim9-autopairs
 https://github.com/Coacher/vim9-buckler
 https://github.com/Coacher/vim9-cutlass
+https://github.com/ShayHill/vim9-socialfmt
 
 # File Management
 
