@@ -41,7 +41,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [DanBradbury/copilot-chat.vim](https://github.com/DanBradbury/copilot-chat.vim) | Copilot Chat for Vim | ⭐130 |
+| [DanBradbury/copilot-chat.vim](https://github.com/DanBradbury/copilot-chat.vim) | Copilot Chat for Vim | ⭐131 |
 | [greeschenko/vim9-ollama](https://github.com/greeschenko/vim9-ollama) | Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama | ⭐14 |
 
 ## Color Scheme
@@ -81,7 +81,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [nda-cunh/vim9-autopairs](https://github.com/nda-cunh/vim9-autopairs) | Vim9 auto pairs plugin | ⭐0 |
 | [Coacher/vim9-buckler](https://github.com/Coacher/vim9-buckler) | Vim9 plugin that maintains a consistent yank history through registers | ⭐4 |
 | [Coacher/vim9-cutlass](https://github.com/Coacher/vim9-cutlass) | Vim9 plugin that adds a 'cut' operation separate from 'delete' | ⭐2 |
-| [ShayHill/vim9-socialfmt](https://github.com/ShayHill/vim9-socialfmt) | Emulate formatted text for LinkedIn, X, Facebook, and more. | ⭐0 |
+| [ShayHill/vim9-socialfmt](https://github.com/ShayHill/vim9-socialfmt) | Emulate formatted text for LinkedIn, X, Facebook, and more. | ⭐1 |
 
 ## File Management
 
@@ -108,7 +108,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [yegappan/battleship](https://github.com/yegappan/battleship) | Battleship game for Vim | ⭐10 |
+| [yegappan/battleship](https://github.com/yegappan/battleship) | Battleship game for Vim | ⭐11 |
 | [yegappan/game2048](https://github.com/yegappan/game2048) | Game 2048 implemented using Vim9script | ⭐1 |
 | [yegappan/minesweeper](https://github.com/yegappan/minesweeper) | Minesweeper game using Vim9script | ⭐1 |
 | [yegappan/nonogram](https://github.com/yegappan/nonogram) | Nonogram game written in Vim9script | ⭐2 |
@@ -124,7 +124,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [ShayHill/article_install_vim_in_windows](https://github.com/ShayHill/article_install_vim_in_windows) | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐15 |
-| [yegappan/design-patterns](https://github.com/yegappan/design-patterns) | Design patterns in Vim9script | ⭐6 |
+| [yegappan/design-patterns](https://github.com/yegappan/design-patterns) | Design patterns in Vim9script | ⭐7 |
 
 ## Integrations
 
@@ -150,7 +150,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐1 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐715 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐718 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
 
@@ -198,6 +198,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
+| [doruk/tsc-watcher-vim](https://codeberg.org/doruk/tsc-watcher-vim) | Quickfix list generation based on tsc output, uglier version of custom `set makeprg=...` for TS files | ⭐0 |
 | [bfrg/vim-qf-diagnostics](https://github.com/bfrg/vim-qf-diagnostics) | Highlight quickfix errors, and display error messages as virtual text or in a popup window | ⭐30 |
 | [bfrg/vim-qf-history](https://github.com/bfrg/vim-qf-history) | Navigate Vim's quickfix and location-list history using a popup menu | ⭐13 |
 | [bfrg/vim-qf-preview](https://github.com/bfrg/vim-qf-preview) | Preview the quickfix item under the cursor in a popup window | ⭐55 |
@@ -218,7 +219,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [nda-cunh/indent_rainbow_vim](https://github.com/nda-cunh/indent_rainbow_vim) | vim9 plugin for indent_rainbow from supravim | ⭐2 |
 | [noscript/taberian.vim](https://github.com/noscript/taberian.vim) | Clickable tabs per VIM window | ⭐19 |
 | [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) | The undo history visualizer for VIM | ⭐4 |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17950 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17946 |
 | [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this!   | ⭐6 |
 | [kennypete/vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ⭐10 |
 | [mattn/vim-smear-cursor](https://github.com/mattn/vim-smear-cursor) | *No description provided.* | ⭐5 |

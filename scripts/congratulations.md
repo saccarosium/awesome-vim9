@@ -25,3 +25,4 @@
 2026-03-24T06:43:55.826226 - yegappan/lsp crossed a star threshold: 698 -> 704 stars.
 2026-04-05T21:26:08.150579 - yegappan/battleship crossed a star threshold: 9 -> 10 stars.
 2026-04-05T21:26:08.151117 - nda-cunh/PropColor crossed a star threshold: 0 -> 3 stars.
+2026-04-22T09:50:31.736884 - ShayHill/vim9-socialfmt crossed a star threshold: 0 -> 1 stars.

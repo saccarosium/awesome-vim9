@@ -127,10 +127,10 @@ https://github.com/bennyyip/plugpac.vim
 
 # Quickfix
 
+https://codeberg.org/doruk/tsc-watcher-vim
 https://github.com/bfrg/vim-qf-diagnostics
 https://github.com/bfrg/vim-qf-history
 https://github.com/bfrg/vim-qf-preview
-https://codeberg.org/doruk/tsc-watcher-vim
 
 # Statusline
 
