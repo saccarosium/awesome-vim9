@@ -41,8 +41,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [DanBradbury/copilot-chat.vim](https://github.com/DanBradbury/copilot-chat.vim) | Copilot Chat for Vim | ⭐131 |
-| [greeschenko/vim9-ollama](https://github.com/greeschenko/vim9-ollama) | Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama | ⭐14 |
+| [DanBradbury/copilot-chat.vim](https://github.com/DanBradbury/copilot-chat.vim) | Copilot Chat for Vim | ⭐132 |
+| [greeschenko/vim9-ollama](https://github.com/greeschenko/vim9-ollama) | Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama | ⭐15 |
 
 ## Color Scheme
 
@@ -66,7 +66,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [jessepav/vim-camelcomplete](https://github.com/jessepav/vim-camelcomplete) | Vim 9 plugin to complete CamelCase, snake_case and dash-words identifier abbreviations. | ⭐4 |
 | [mityu/vim-wispath](https://github.com/mityu/vim-wispath) | A path completion script written in Vim9 script. | ⭐6 |
 | [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐183 |
-| [girishji/vimsuggest](https://github.com/girishji/vimsuggest) | Auto-completion for Vim's command-line. | ⭐50 |
+| [girishji/vimsuggest](https://github.com/girishji/vimsuggest) | Auto-completion for Vim's command-line. | ⭐51 |
 
 ## Editing
 
@@ -123,7 +123,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [ShayHill/article_install_vim_in_windows](https://github.com/ShayHill/article_install_vim_in_windows) | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐15 |
+| [ShayHill/article_install_vim_in_windows](https://github.com/ShayHill/article_install_vim_in_windows) | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐16 |
 | [yegappan/design-patterns](https://github.com/yegappan/design-patterns) | Design patterns in Vim9script | ⭐7 |
 
 ## Integrations
@@ -150,7 +150,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐1 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐718 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐721 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
 
@@ -186,7 +186,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [girishji/easyjump.vim](https://github.com/girishji/easyjump.vim) | The Vim motion you've always wanted. | ⭐18 |
 | [girishji/fFtT.vim](https://github.com/girishji/fFtT.vim) | More accurate f, F, t, T navigation in Vim. | ⭐9 |
-| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 | ⭐120 |
+| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 | ⭐122 |
 
 ## Plugin Management
 
@@ -216,10 +216,10 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [noscript/elevator.vim](https://github.com/noscript/elevator.vim) | Scrollbar for VIM | ⭐12 |
-| [nda-cunh/indent_rainbow_vim](https://github.com/nda-cunh/indent_rainbow_vim) | vim9 plugin for indent_rainbow from supravim | ⭐2 |
+| [nda-cunh/indent_rainbow_vim](https://github.com/nda-cunh/indent_rainbow_vim) | vim9 plugin for indent_rainbow from supravim | ⭐3 |
 | [noscript/taberian.vim](https://github.com/noscript/taberian.vim) | Clickable tabs per VIM window | ⭐19 |
 | [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) | The undo history visualizer for VIM | ⭐4 |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17946 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17949 |
 | [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this!   | ⭐6 |
 | [kennypete/vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ⭐10 |
 | [mattn/vim-smear-cursor](https://github.com/mattn/vim-smear-cursor) | *No description provided.* | ⭐5 |
@@ -243,4 +243,6 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐82 |
 | [kennypete/.vimrc](https://github.com/kennypete/.vimrc) | My .vimrc | ⭐4 |
+| [bennyyip/dot-vim](https://github.com/bennyyip/dot-vim) | *No description provided.* | ⭐8 |
 | [mao-yining/dotfile_vim](https://codeberg.org/mao-yining/dotfile_vim) | *No description provided.* | ⭐0 |
+| [64-bitman/vim-config](https://github.com/64-bitman/vim-config) | *No description provided.* | ⭐1 |
