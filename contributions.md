@@ -165,3 +165,5 @@ https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug
 https://github.com/habamax/.vim
 https://github.com/kennypete/.vimrc
 https://codeberg.org/mao-yining/dotfile_vim
+https://github.com/bennyyip/dot-vim
+https://github.com/64-bitman/vim-config
