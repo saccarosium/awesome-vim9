@@ -1,6 +1,17 @@
 #!/usr/bin/env python3
 """
 Script to automatically update star counts in README.md for awesome-vim9
+Features:
+- Extracts all GitHub repository links from README.md
+- Fetches current star counts from GitHub API
+- Updates star counts in README.md when they've changed
+- Handles rate limiting with retry logic
+- Shows detailed output of which repositories were updated
+Usage:
+1. Install requirements: pip install requests
+2. Optional: Set GitHub token for higher rate limits: export GITHUB_TOKEN=your_token_here
+3. Run: python update_stars.py
+
 """
 
 import os
