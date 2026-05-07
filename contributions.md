@@ -11,8 +11,10 @@ https://github.com/kratuvid/vim9-gruvbox
 
 # Command Execution
 
+https://github.com/hahdookin/miniterm.vim
 https://github.com/habamax/vim-shout
 https://github.com/ShayHill/vim9-scratchterm
+https://github.com/sevehub/vim9lua
 
 # Completion
 
@@ -26,7 +28,6 @@ https://github.com/girishji/vimsuggest
 https://github.com/Eliot00/auto-pairs
 https://github.com/nda-cunh/SupraComment
 https://github.com/ubaldot/vim-highlight-yanked
-https://github.com/ubaldot/vim-markdown-extras
 https://github.com/ubaldot/vim-op-surround
 https://github.com/ubaldot/vim-writegood
 https://github.com/nda-cunh/vim9-autopairs
@@ -75,15 +76,14 @@ https://github.com/noscript/bazel.vim
 https://github.com/gh-tui-tools/gh-review.vim
 https://github.com/DanBradbury/github-actions.vim
 https://github.com/mao-yining/gv.vim
-https://github.com/hahdookin/miniterm.vim
 https://github.com/gcanat/texpresso.vim9
 https://github.com/bfrg/vim-cmake-help
 https://github.com/ubaldot/vim-conda-activate
+https://github.com/habamax/vim-ii
 https://github.com/bfrg/vim-jqplay
 https://github.com/ubaldot/vim-manim
 https://github.com/ubaldot/vim-microdebugger
 https://github.com/ubaldot/vim-replica
-https://github.com/sevehub/vim9lua
 https://github.com/wolandark/vimdict
 
 # Language Server Protocol
@@ -99,6 +99,11 @@ https://github.com/pit-ray/vim-autograd/tree/vim9
 https://codeberg.org/lifepillar/vim-colortemplate/src/branch/v3
 https://codeberg.org/lifepillar/vim-devel
 
+# Markdown
+
+https://github.com/ubaldot/vim-markdown-extras
+https://github.com/greeschenko/vimsidian
+
 # Miscellaneous
 
 https://github.com/nda-cunh/PropColor
@@ -108,7 +113,6 @@ https://github.com/ubaldot/vim-calendar
 https://codeberg.org/mao-yining/vim-competitest
 https://github.com/wolandark/vim-ez-emoji
 https://github.com/ubaldot/vim-helpme
-https://github.com/habamax/vim-ii
 https://github.com/ubaldot/vim-outline
 https://codeberg.org/mags/vim-srt
 https://github.com/ubaldot/vim9-conversion-aid

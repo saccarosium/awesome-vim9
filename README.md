@@ -25,6 +25,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 - [Integrations](#integrations)
 - [Language Server Protocol](#language-server-protocol)
 - [Libraries](#libraries)
+- [Markdown](#markdown)
 - [Miscellaneous](#miscellaneous)
 - [Motion](#motion)
 - [Plugin Management](#plugin-management)
@@ -56,8 +57,10 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
+| [hahdookin/miniterm.vim](https://github.com/hahdookin/miniterm.vim) | Simple Vim9 toggle-terminal manager | ⭐26 |
 | [habamax/vim-shout](https://github.com/habamax/vim-shout) | Run and Capture Shell Command Output in Vim | ⭐29 |
 | [ShayHill/vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) | Define a command, ScratchTerm, that creates a new terminal buffer and marks it as a scratch buffer. This allows us to kill all scratch terminals in the current view with a single function. | ⭐12 |
+| [sevehub/vim9lua](https://github.com/sevehub/vim9lua) | This Vim9Script plugin allows users to execute the contents of the current buffer as a Lua script using Windows PowerShell. It provides a way to test and run Lua code directly from Vim, enhancing the development workflow for Lua programmers.  | ⭐0 |
 
 ## Completion
 
@@ -75,7 +78,6 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [Eliot00/auto-pairs](https://github.com/Eliot00/auto-pairs) | Vim9 auto pairs plugin | ⭐21 |
 | [nda-cunh/SupraComment](https://github.com/nda-cunh/SupraComment) | Vim9 commenting plugin inspired by VS Code’s Ctrl + / behavior. | ⭐0 |
 | [ubaldot/vim-highlight-yanked](https://github.com/ubaldot/vim-highlight-yanked) | Highlight yanked text for Vim9 in less than 100 lines of code. | ⭐14 |
-| [ubaldot/vim-markdown-extras](https://github.com/ubaldot/vim-markdown-extras) | Taking notes and editing markdown files: make it easy! | ⭐13 |
 | [ubaldot/vim-op-surround](https://github.com/ubaldot/vim-op-surround) | Vim9 surround!  | ⭐4 |
 | [ubaldot/vim-writegood](https://github.com/ubaldot/vim-writegood) | Check your English prose in Vim.  | ⭐2 |
 | [nda-cunh/vim9-autopairs](https://github.com/nda-cunh/vim9-autopairs) | Vim9 auto pairs plugin | ⭐0 |
@@ -130,19 +132,18 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [noscript/bazel.vim](https://github.com/noscript/bazel.vim) | Google Bazel integration for Vim | ⭐6 |
+| [noscript/bazel.vim](https://github.com/noscript/bazel.vim) | Google Bazel integration for Vim | ⭐5 |
 | [gh-tui-tools/gh-review.vim](https://github.com/gh-tui-tools/gh-review.vim) | 🧐 Review GitHub PRs in Vim 9.0+ | ⭐6 |
 | [DanBradbury/github-actions.vim](https://github.com/DanBradbury/github-actions.vim) | Interact with GitHub Actions in vim | ⭐2 |
 | [mao-yining/gv.vim](https://github.com/mao-yining/gv.vim) | A git commit browser in Vim. Rewrite in vim9script. Require vim-fugitive | ⭐1 |
-| [hahdookin/miniterm.vim](https://github.com/hahdookin/miniterm.vim) | Simple Vim9 toggle-terminal manager | ⭐26 |
 | [gcanat/texpresso.vim9](https://github.com/gcanat/texpresso.vim9) | vim mode for texpresso | ⭐2 |
 | [bfrg/vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ⭐8 |
 | [ubaldot/vim-conda-activate](https://github.com/ubaldot/vim-conda-activate) | Activate Conda environments in Vim. | ⭐18 |
+| [habamax/vim-ii](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ⭐12 |
 | [bfrg/vim-jqplay](https://github.com/bfrg/vim-jqplay) | Run jq interactively in Vim | ⭐123 |
 | [ubaldot/vim-manim](https://github.com/ubaldot/vim-manim) | Render your manim-ations from Vim. | ⭐6 |
 | [ubaldot/vim-microdebugger](https://github.com/ubaldot/vim-microdebugger) | A tiny plugin on top of Termdebug for remote debugging (docker, MCUs, etc) | ⭐6 |
 | [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) | Enjoy Jupyter through Vim! | ⭐31 |
-| [sevehub/vim9lua](https://github.com/sevehub/vim9lua) | This Vim9Script plugin allows users to execute the contents of the current buffer as a Lua script using Windows PowerShell. It provides a way to test and run Lua code directly from Vim, enhancing the development workflow for Lua programmers.  | ⭐0 |
 | [wolandark/vimdict](https://github.com/wolandark/vimdict) | A Simple Wrapper Over The Dict CLI Utility For Vim9 | ⭐3 |
 
 ## Language Server Protocol
@@ -150,7 +151,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐1 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐722 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐723 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐17 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
 
@@ -161,6 +162,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [pit-ray/vim-autograd](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ⭐29 |
 | [lifepillar/vim-colortemplate](https://codeberg.org/lifepillar/vim-colortemplate/src/branch/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐2 |
 | [lifepillar/vim-devel](https://codeberg.org/lifepillar/vim-devel) | The workbench for modern Vim development  | ⭐1 |
+
+## Markdown
+
+|     |     |     |
+| --- | --- | --- |
+| [ubaldot/vim-markdown-extras](https://github.com/ubaldot/vim-markdown-extras) | Taking notes and editing markdown files: make it easy! | ⭐13 |
+| [greeschenko/vimsidian](https://github.com/greeschenko/vimsidian) | Minimalistic Obsidian-like note system inside Vim (Vim9script). | ⭐1 |
 
 ## Miscellaneous
 
@@ -173,7 +181,6 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [mao-yining/vim-competitest](https://codeberg.org/mao-yining/vim-competitest) | CompetiTest.vim is a Vim plugin for Competitive Programming: it can manage and check testcases, download problems and contests from online judges and much more. | ⭐1 |
 | [wolandark/vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji) | An easy emoji plugin for vim written in vim9script | ⭐11 |
 | [ubaldot/vim-helpme](https://github.com/ubaldot/vim-helpme) | Can't you remember stuff? Try this! | ⭐11 |
-| [habamax/vim-ii](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ⭐12 |
 | [ubaldot/vim-outline](https://github.com/ubaldot/vim-outline) | A simple outline sketcher for different filetypes. | ⭐23 |
 | [mags/vim-srt](https://codeberg.org/mags/vim-srt) | Vim9 subtitle filetype plugin | ⭐0 |
 | [ubaldot/vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid) | A little help for upgrading your scripts to vim9 language. | ⭐12 |
@@ -219,7 +226,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [nda-cunh/indent_rainbow_vim](https://github.com/nda-cunh/indent_rainbow_vim) | vim9 plugin for indent_rainbow from supravim | ⭐3 |
 | [noscript/taberian.vim](https://github.com/noscript/taberian.vim) | Clickable tabs per VIM window | ⭐19 |
 | [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) | The undo history visualizer for VIM | ⭐4 |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17941 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17943 |
 | [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this!   | ⭐6 |
 | [kennypete/vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ⭐10 |
 | [mattn/vim-smear-cursor](https://github.com/mattn/vim-smear-cursor) | *No description provided.* | ⭐5 |
