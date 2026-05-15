@@ -5,6 +5,7 @@ https://github.com/greeschenko/vim9-ollama
 
 # Color Scheme
 
+https://github.com/micdzu/aalto.vim
 https://codeberg.org/mao-yining/vim-catppuccin
 https://github.com/zhixiao-zhang/vim-light-pink
 https://github.com/kratuvid/vim9-gruvbox

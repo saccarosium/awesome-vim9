@@ -49,6 +49,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
+| [micdzu/aalto.vim](https://github.com/micdzu/aalto.vim) | A Vim 9 colorscheme where structure becomes visible — and everything else fades away. | ⭐0 |
 | [mao-yining/vim-catppuccin](https://codeberg.org/mao-yining/vim-catppuccin) | 🧋 Soothing pastel theme for Vim  | ⭐0 |
 | [zhixiao-zhang/vim-light-pink](https://github.com/zhixiao-zhang/vim-light-pink) | A vim color scheme reproduction of a vscode theme. | ⭐0 |
 | [kratuvid/vim9-gruvbox](https://github.com/kratuvid/vim9-gruvbox) | A vim9script port of Gruvbox | ⭐3 |
@@ -151,7 +152,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐2 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐725 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐728 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐18 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
 
@@ -226,7 +227,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [nda-cunh/indent_rainbow_vim](https://github.com/nda-cunh/indent_rainbow_vim) | vim9 plugin for indent_rainbow from supravim | ⭐3 |
 | [noscript/taberian.vim](https://github.com/noscript/taberian.vim) | Clickable tabs per VIM window | ⭐19 |
 | [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) | The undo history visualizer for VIM | ⭐4 |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17946 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17945 |
 | [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this!   | ⭐6 |
 | [kennypete/vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ⭐10 |
 | [mattn/vim-smear-cursor](https://github.com/mattn/vim-smear-cursor) | *No description provided.* | ⭐5 |
