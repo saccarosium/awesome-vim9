@@ -90,9 +90,9 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [ycm/poplar.vim](https://github.com/ycm/poplar.vim) | Popup filetree and pinned files for vim9 | ⭐22 |
-| [nda-cunh/SupraTree](https://github.com/nda-cunh/SupraTree) | A tree for vim | ⭐0 |
-| [nda-cunh/SupraWater](https://github.com/nda-cunh/SupraWater) | 🌊 Vim9script plugin File-Manager like nvim-oil | ⭐2 |
+| [ycm/poplar.vim](https://github.com/ycm/poplar.vim) | Popup filetree and pinned files for vim9 | ⭐23 |
+| [nda-cunh/SupraTree](https://github.com/nda-cunh/SupraTree) | A tree for vim | ⭐1 |
+| [nda-cunh/SupraWater](https://github.com/nda-cunh/SupraWater) | 🌊 Vim9script plugin File-Manager like nvim-oil | ⭐3 |
 | [habamax/vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ⭐71 |
 | [saccarosium/vim-netrw-salad](https://github.com/saccarosium/vim-netrw-salad) | A delicious salad to go with your beloved netrw. | ⭐2 |
 | [ubaldot/vim-open-recent](https://github.com/ubaldot/vim-open-recent) | Open recent files from a popup menu. Written in Vim9.  | ⭐3 |
@@ -101,7 +101,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Modern fuzzy finder for Vim with minimal dependencies | ⭐158 |
+| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Modern fuzzy finder for Vim with minimal dependencies | ⭐159 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ⭐88 |
 | [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) | Run fzy asynchronously in a Vim (popup) terminal-window | ⭐16 |
@@ -111,7 +111,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [yegappan/battleship](https://github.com/yegappan/battleship) | Battleship game for Vim | ⭐11 |
+| [yegappan/battleship](https://github.com/yegappan/battleship) | Battleship game for Vim | ⭐12 |
 | [yegappan/game2048](https://github.com/yegappan/game2048) | Game 2048 implemented using Vim9script | ⭐1 |
 | [yegappan/minesweeper](https://github.com/yegappan/minesweeper) | Minesweeper game using Vim9script | ⭐1 |
 | [yegappan/nonogram](https://github.com/yegappan/nonogram) | Nonogram game written in Vim9script | ⭐2 |
@@ -152,7 +152,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐2 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐737 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐739 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐18 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
 
@@ -169,7 +169,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [ubaldot/vim-markdown-extras](https://github.com/ubaldot/vim-markdown-extras) | Taking notes and editing markdown files: make it easy! | ⭐13 |
-| [greeschenko/vimsidian](https://github.com/greeschenko/vimsidian) | Minimalistic Obsidian-like note system inside Vim (Vim9script). | ⭐1 |
+| [greeschenko/vimsidian](https://github.com/greeschenko/vimsidian) | Minimalistic Obsidian-like note system inside Vim (Vim9script). | ⭐2 |
 
 ## Miscellaneous
 
@@ -180,7 +180,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [jessepav/vim-boxdraw](https://github.com/jessepav/vim-boxdraw) | Vim 9 plugin to draw boxes, tables, and lines | ⭐8 |
 | [ubaldot/vim-calendar](https://github.com/ubaldot/vim-calendar) | Calendar in Vim9 | ⭐2 |
 | [mao-yining/vim-competitest](https://codeberg.org/mao-yining/vim-competitest) | CompetiTest.vim is a Vim plugin for Competitive Programming: it can manage and check testcases, download problems and contests from online judges and much more. | ⭐1 |
-| [wolandark/vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji) | An easy emoji plugin for vim written in vim9script | ⭐11 |
+| [wolandark/vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji) | An easy emoji plugin for vim written in vim9script | ⭐12 |
 | [ubaldot/vim-helpme](https://github.com/ubaldot/vim-helpme) | Can't you remember stuff? Try this! | ⭐11 |
 | [ubaldot/vim-outline](https://github.com/ubaldot/vim-outline) | A simple outline sketcher for different filetypes. | ⭐23 |
 | [mags/vim-srt](https://codeberg.org/mags/vim-srt) | Vim9 subtitle filetype plugin | ⭐0 |
@@ -227,7 +227,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [nda-cunh/indent_rainbow_vim](https://github.com/nda-cunh/indent_rainbow_vim) | vim9 plugin for indent_rainbow from supravim | ⭐3 |
 | [noscript/taberian.vim](https://github.com/noscript/taberian.vim) | Clickable tabs per VIM window | ⭐19 |
 | [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) | The undo history visualizer for VIM | ⭐4 |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17961 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17954 |
 | [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this!   | ⭐6 |
 | [kennypete/vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ⭐10 |
 | [mattn/vim-smear-cursor](https://github.com/mattn/vim-smear-cursor) | *No description provided.* | ⭐5 |
@@ -249,8 +249,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐82 |
+| [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐83 |
 | [kennypete/.vimrc](https://github.com/kennypete/.vimrc) | My .vimrc | ⭐4 |
-| [bennyyip/dot-vim](https://github.com/bennyyip/dot-vim) | *No description provided.* | ⭐8 |
+| [bennyyip/dot-vim](https://github.com/bennyyip/dot-vim) | *No description provided.* | ⭐9 |
 | [mao-yining/dotfile_vim](https://codeberg.org/mao-yining/dotfile_vim) | *No description provided.* | ⭐0 |
 | [64-bitman/vim-config](https://github.com/64-bitman/vim-config) | *No description provided.* | ⭐1 |
