@@ -29,3 +29,5 @@
 2026-05-05T09:50:30.581892 - ShayHill/vim9-limelight crossed a star threshold: 9 -> 10 stars.
 2026-05-25T02:00:48.479067 - micdzu/aalto.vim crossed a star threshold: 0 -> 1 stars.
 2026-06-01T02:00:51.971548 - mao-yining/vim-catppuccin crossed a star threshold: 0 -> 1 stars.
+2026-06-15T02:00:48.781403 - nda-cunh/vim9-autopairs crossed a star threshold: 0 -> 1 stars.
+2026-06-15T02:00:48.781993 - girishji/fFtT.vim crossed a star threshold: 9 -> 10 stars.
