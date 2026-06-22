@@ -90,7 +90,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [jarkko/oulu](https://codeberg.org/jarkko/oulu) | *No description provided.* | ⭐0 |
+| [jarkko/oulu.vim](https://codeberg.org/jarkko/oulu.vim) | oulu.vim is a oil.nvim inspired file manager | ⭐0 |
 | [ycm/poplar.vim](https://github.com/ycm/poplar.vim) | Popup filetree and pinned files for vim9 | ⭐23 |
 | [nda-cunh/SupraTree](https://github.com/nda-cunh/SupraTree) | A tree for vim | ⭐1 |
 | [nda-cunh/SupraWater](https://github.com/nda-cunh/SupraWater) | 🌊 Vim9script plugin File-Manager like nvim-oil | ⭐3 |
