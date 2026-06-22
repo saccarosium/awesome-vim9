@@ -90,7 +90,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [jarkko/oulu.vim](https://codeberg.org/jarkko/oulu.vim) | oulu.vim is a oil.nvim inspired file manager | ⭐0 |
+| [jarkko/oulu.vim](https://codeberg.org/jarkko/oulu.vim) | *No description provided.* | ⭐1 |
 | [ycm/poplar.vim](https://github.com/ycm/poplar.vim) | Popup filetree and pinned files for vim9 | ⭐23 |
 | [nda-cunh/SupraTree](https://github.com/nda-cunh/SupraTree) | A tree for vim | ⭐1 |
 | [nda-cunh/SupraWater](https://github.com/nda-cunh/SupraWater) | 🌊 Vim9script plugin File-Manager like nvim-oil | ⭐3 |
@@ -127,7 +127,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [ShayHill/article_install_vim_in_windows](https://github.com/ShayHill/article_install_vim_in_windows) | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐18 |
+| [ShayHill/article_install_vim_in_windows](https://github.com/ShayHill/article_install_vim_in_windows) | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐19 |
 | [yegappan/design-patterns](https://github.com/yegappan/design-patterns) | Design patterns in Vim9script | ⭐8 |
 
 ## Integrations

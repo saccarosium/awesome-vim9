@@ -38,7 +38,7 @@ https://github.com/ShayHill/vim9-socialfmt
 
 # File Management
 
-https://codeberg.org/jarkko/oulu
+https://codeberg.org/jarkko/oulu.vim
 https://github.com/ycm/poplar.vim
 https://github.com/nda-cunh/SupraTree
 https://github.com/nda-cunh/SupraWater
