@@ -5,7 +5,7 @@ https://github.com/greeschenko/vim9-ollama
 
 # Color Scheme
 
-https://github.com/micdzu/aalto.vim
+https://codeberg.org/micdzu/aalto.vim
 https://codeberg.org/mao-yining/vim-catppuccin
 https://github.com/zhixiao-zhang/vim-light-pink
 https://github.com/kratuvid/vim9-gruvbox
@@ -142,6 +142,7 @@ https://github.com/bfrg/vim-qf-preview
 # Statusline
 
 https://github.com/Bakudankun/qline.vim
+https://github.com/vim-airline/vim-airline
 https://github.com/kennypete/vim-tene
 https://github.com/ShayHill/vim9-limelight
 
@@ -151,7 +152,6 @@ https://github.com/noscript/elevator.vim
 https://github.com/nda-cunh/indent_rainbow_vim
 https://github.com/noscript/taberian.vim
 https://github.com/mao-yining/undotree.vim
-https://github.com/vim-airline/vim-airline
 https://github.com/ubaldot/vim-extended-view
 https://github.com/kennypete/vim-popped
 https://github.com/mattn/vim-smear-cursor
@@ -174,3 +174,4 @@ https://github.com/kennypete/.vimrc
 https://github.com/bennyyip/dot-vim
 https://codeberg.org/mao-yining/dotfile_vim
 https://github.com/64-bitman/vim-config
+https://github.com/ShayHill/vimfiles

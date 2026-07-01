@@ -49,7 +49,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [micdzu/aalto.vim](https://github.com/micdzu/aalto.vim) | A Vim 9 colorscheme where structure becomes visible — and everything else fades away. | ⭐1 |
+| [micdzu/aalto.vim](https://codeberg.org/micdzu/aalto.vim) |  A Vim (v9) colorscheme where structure becomes visible — and everything else fades away.  | ⭐0 |
 | [mao-yining/vim-catppuccin](https://codeberg.org/mao-yining/vim-catppuccin) | 🧋 Soothing pastel theme for Vim  | ⭐1 |
 | [zhixiao-zhang/vim-light-pink](https://github.com/zhixiao-zhang/vim-light-pink) | A vim color scheme reproduction of a vscode theme. | ⭐0 |
 | [kratuvid/vim9-gruvbox](https://github.com/kratuvid/vim9-gruvbox) | A vim9script port of Gruvbox | ⭐3 |
@@ -79,9 +79,9 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [Eliot00/auto-pairs](https://github.com/Eliot00/auto-pairs) | Vim9 auto pairs plugin | ⭐22 |
 | [nda-cunh/SupraComment](https://github.com/nda-cunh/SupraComment) | Vim9 commenting plugin inspired by VS Code’s Ctrl + / behavior. | ⭐1 |
 | [ubaldot/vim-highlight-yanked](https://github.com/ubaldot/vim-highlight-yanked) | Highlight yanked text for Vim9 in less than 100 lines of code. | ⭐14 |
-| [ubaldot/vim-op-surround](https://github.com/ubaldot/vim-op-surround) | Vim9 surround!  | ⭐4 |
+| [ubaldot/vim-op-surround](https://github.com/ubaldot/vim-op-surround) | Vim9 surround!  | ⭐5 |
 | [ubaldot/vim-writegood](https://github.com/ubaldot/vim-writegood) | Check your English prose in Vim.  | ⭐2 |
-| [nda-cunh/vim9-autopairs](https://github.com/nda-cunh/vim9-autopairs) | Vim9 auto pairs plugin | ⭐1 |
+| [nda-cunh/vim9-autopairs](https://github.com/nda-cunh/vim9-autopairs) | Vim9 auto pairs plugin | ⭐2 |
 | [Coacher/vim9-buckler](https://github.com/Coacher/vim9-buckler) | Vim9 plugin that maintains a consistent yank history through registers | ⭐4 |
 | [Coacher/vim9-cutlass](https://github.com/Coacher/vim9-cutlass) | Vim9 plugin that adds a 'cut' operation separate from 'delete' | ⭐2 |
 | [ShayHill/vim9-socialfmt](https://github.com/ShayHill/vim9-socialfmt) | Emulate formatted text for LinkedIn, X, Facebook, and more. | ⭐1 |
@@ -142,7 +142,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [bfrg/vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ⭐8 |
 | [ubaldot/vim-conda-activate](https://github.com/ubaldot/vim-conda-activate) | Activate Conda environments in Vim. | ⭐18 |
 | [habamax/vim-curl](https://github.com/habamax/vim-curl) | Simple curl wrapper for vim to work with REST API | ⭐6 |
-| [habamax/vim-ii](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ⭐12 |
+| [habamax/vim-ii](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ⭐13 |
 | [bfrg/vim-jqplay](https://github.com/bfrg/vim-jqplay) | Run jq interactively in Vim | ⭐123 |
 | [ubaldot/vim-manim](https://github.com/ubaldot/vim-manim) | Render your manim-ations from Vim. | ⭐6 |
 | [ubaldot/vim-microdebugger](https://github.com/ubaldot/vim-microdebugger) | A tiny plugin on top of Termdebug for remote debugging (docker, MCUs, etc) | ⭐6 |
@@ -154,7 +154,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐2 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐746 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐749 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐18 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
 
@@ -218,6 +218,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [Bakudankun/qline.vim](https://github.com/Bakudankun/qline.vim) | The quick, fully-customizable status line plugin written in cutting-edge Vim9 script. | ⭐44 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17959 |
 | [kennypete/vim-tene](https://github.com/kennypete/vim-tene) | Vim 9 - teRNARY STATUSLIne | ⭐17 |
 | [ShayHill/vim9-limelight](https://github.com/ShayHill/vim9-limelight) | Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*. | ⭐10 |
 
@@ -229,7 +230,6 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [nda-cunh/indent_rainbow_vim](https://github.com/nda-cunh/indent_rainbow_vim) | vim9 plugin for indent_rainbow from supravim | ⭐3 |
 | [noscript/taberian.vim](https://github.com/noscript/taberian.vim) | Clickable tabs per VIM window | ⭐19 |
 | [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) | The undo history visualizer for VIM | ⭐4 |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17957 |
 | [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this!   | ⭐6 |
 | [kennypete/vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ⭐10 |
 | [mattn/vim-smear-cursor](https://github.com/mattn/vim-smear-cursor) | *No description provided.* | ⭐6 |
@@ -251,8 +251,9 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐84 |
+| [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐85 |
 | [kennypete/.vimrc](https://github.com/kennypete/.vimrc) | My .vimrc | ⭐4 |
 | [bennyyip/dot-vim](https://github.com/bennyyip/dot-vim) | *No description provided.* | ⭐9 |
-| [mao-yining/dotfile_vim](https://codeberg.org/mao-yining/dotfile_vim) | *No description provided.* | ⭐0 |
+| [mao-yining/dotfile_vim](https://codeberg.org/mao-yining/dotfile_vim) | *No description provided.* | ⭐1 |
 | [64-bitman/vim-config](https://github.com/64-bitman/vim-config) | *No description provided.* | ⭐1 |
+| [ShayHill/vimfiles](https://github.com/ShayHill/vimfiles) | my personal vimfiles for mostly Python dev on Windows | ⭐1 |
