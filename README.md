@@ -59,7 +59,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [hahdookin/miniterm.vim](https://github.com/hahdookin/miniterm.vim) | Simple Vim9 toggle-terminal manager | ⭐26 |
-| [habamax/vim-shout](https://github.com/habamax/vim-shout) | Run and Capture Shell Command Output in Vim | ⭐30 |
+| [habamax/vim-shout](https://github.com/habamax/vim-shout) | Run and Capture Shell Command Output in Vim | ⭐31 |
 | [ShayHill/vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) | Define a command, ScratchTerm, that creates a new terminal buffer and marks it as a scratch buffer. This allows us to kill all scratch terminals in the current view with a single function. | ⭐12 |
 | [sevehub/vim9lua](https://github.com/sevehub/vim9lua) | This Vim9Script plugin allows users to execute the contents of the current buffer as a Lua script using Windows PowerShell. It provides a way to test and run Lua code directly from Vim, enhancing the development workflow for Lua programmers.  | ⭐0 |
 
@@ -70,7 +70,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [jessepav/vim-camelcomplete](https://github.com/jessepav/vim-camelcomplete) | Vim 9 plugin to complete CamelCase, snake_case and dash-words identifier abbreviations. | ⭐4 |
 | [mityu/vim-wispath](https://github.com/mityu/vim-wispath) | A path completion script written in Vim9 script. | ⭐6 |
 | [girishji/vimcomplete](https://github.com/girishji/vimcomplete) | Async autocompletion for Vim. | ⭐183 |
-| [girishji/vimsuggest](https://github.com/girishji/vimsuggest) | Auto-completion for Vim's command-line. | ⭐51 |
+| [girishji/vimsuggest](https://github.com/girishji/vimsuggest) | Auto-completion for Vim's command-line. | ⭐53 |
 
 ## Editing
 
@@ -79,7 +79,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [Eliot00/auto-pairs](https://github.com/Eliot00/auto-pairs) | Vim9 auto pairs plugin | ⭐22 |
 | [nda-cunh/SupraComment](https://github.com/nda-cunh/SupraComment) | Vim9 commenting plugin inspired by VS Code’s Ctrl + / behavior. | ⭐1 |
 | [ubaldot/vim-highlight-yanked](https://github.com/ubaldot/vim-highlight-yanked) | Highlight yanked text for Vim9 in less than 100 lines of code. | ⭐14 |
-| [ubaldot/vim-op-surround](https://github.com/ubaldot/vim-op-surround) | Vim9 surround!  | ⭐5 |
+| [ubaldot/vim-op-surround](https://github.com/ubaldot/vim-op-surround) | Vim9 surround!  | ⭐6 |
 | [ubaldot/vim-writegood](https://github.com/ubaldot/vim-writegood) | Check your English prose in Vim.  | ⭐2 |
 | [nda-cunh/vim9-autopairs](https://github.com/nda-cunh/vim9-autopairs) | Vim9 auto pairs plugin | ⭐2 |
 | [Coacher/vim9-buckler](https://github.com/Coacher/vim9-buckler) | Vim9 plugin that maintains a consistent yank history through registers | ⭐4 |
@@ -102,7 +102,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Modern fuzzy finder for Vim with minimal dependencies | ⭐161 |
+| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Modern fuzzy finder for Vim with minimal dependencies | ⭐159 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ⭐89 |
 | [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) | Run fzy asynchronously in a Vim (popup) terminal-window | ⭐16 |
@@ -113,9 +113,10 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [yegappan/battleship](https://github.com/yegappan/battleship) | Battleship game for Vim | ⭐12 |
-| [yegappan/game2048](https://github.com/yegappan/game2048) | Game 2048 implemented using Vim9script | ⭐1 |
+| [nda-cunh/Crumble.vim](https://github.com/nda-cunh/Crumble.vim) | Crumble the buffer you're looking at. | ⭐0 |
+| [yegappan/game2048](https://github.com/yegappan/game2048) | Game 2048 implemented using Vim9script | ⭐2 |
 | [yegappan/minesweeper](https://github.com/yegappan/minesweeper) | Minesweeper game using Vim9script | ⭐1 |
-| [yegappan/nonogram](https://github.com/yegappan/nonogram) | Nonogram game written in Vim9script | ⭐2 |
+| [yegappan/nonogram](https://github.com/yegappan/nonogram) | Nonogram game written in Vim9script | ⭐3 |
 | [yegappan/number-puzzle](https://github.com/yegappan/number-puzzle) | Sliding number puzzle game written in Vim9script | ⭐3 |
 | [yegappan/snake](https://github.com/yegappan/snake) | Snake Game in Vim9script | ⭐3 |
 | [nda-cunh/SupraPacman](https://github.com/nda-cunh/SupraPacman) | vim9.1 plugin for playing to pacman in vim | ⭐11 |
@@ -135,7 +136,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [noscript/bazel.vim](https://github.com/noscript/bazel.vim) | Google Bazel integration for Vim | ⭐5 |
-| [gh-tui-tools/gh-review.vim](https://github.com/gh-tui-tools/gh-review.vim) | 🧐 Review GitHub PRs in Vim 9.0+ | ⭐7 |
+| [gh-tui-tools/gh-review.vim](https://github.com/gh-tui-tools/gh-review.vim) | 🧐 Review GitHub PRs in Vim 9.0+ | ⭐8 |
 | [DanBradbury/github-actions.vim](https://github.com/DanBradbury/github-actions.vim) | Interact with GitHub Actions in vim | ⭐2 |
 | [mao-yining/gv.vim](https://github.com/mao-yining/gv.vim) | A git commit browser in Vim. Rewrite in vim9script. Require vim-fugitive | ⭐1 |
 | [gcanat/texpresso.vim9](https://github.com/gcanat/texpresso.vim9) | vim mode for texpresso | ⭐2 |
@@ -154,7 +155,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐2 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐749 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐754 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐18 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
 
@@ -163,8 +164,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [pit-ray/vim-autograd](https://github.com/pit-ray/vim-autograd/tree/vim9) | Automatic differentiation library written in pure Vim script. | ⭐29 |
-| [lifepillar/vim-colortemplate](https://codeberg.org/lifepillar/vim-colortemplate/src/branch/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐3 |
-| [lifepillar/vim-devel](https://codeberg.org/lifepillar/vim-devel) | The workbench for modern Vim development  | ⭐1 |
+| [lifepillar/vim-colortemplate](https://codeberg.org/lifepillar/vim-colortemplate/src/branch/v3) |  The Toolkit for Vim Color Scheme Designers! | ⭐4 |
+| [lifepillar/vim-devel](https://codeberg.org/lifepillar/vim-devel) | The workbench for modern Vim development  | ⭐2 |
 
 ## Markdown
 
@@ -177,7 +178,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [nda-cunh/PropColor](https://github.com/nda-cunh/PropColor) | vim9script plugin to draw colors in your editor | ⭐3 |
+| [nda-cunh/PropColor](https://github.com/nda-cunh/PropColor) | vim9script plugin to draw colors in your editor | ⭐4 |
 | [nda-cunh/SupraIcons](https://github.com/nda-cunh/SupraIcons) | Icons and Palette plugin vim9 | ⭐2 |
 | [jessepav/vim-boxdraw](https://github.com/jessepav/vim-boxdraw) | Vim 9 plugin to draw boxes, tables, and lines | ⭐8 |
 | [ubaldot/vim-calendar](https://github.com/ubaldot/vim-calendar) | Calendar in Vim9 | ⭐2 |
@@ -196,13 +197,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [girishji/easyjump.vim](https://github.com/girishji/easyjump.vim) | The Vim motion you've always wanted. | ⭐19 |
 | [girishji/fFtT.vim](https://github.com/girishji/fFtT.vim) | More accurate f, F, t, T navigation in Vim. | ⭐10 |
-| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 | ⭐123 |
+| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 | ⭐124 |
 
 ## Plugin Management
 
 |     |     |     |
 | --- | --- | --- |
-| [bennyyip/plugpac.vim](https://github.com/bennyyip/plugpac.vim) | Plugpac is a plugin manger written in Vim9 based on minpac, provides vim-plug-like experience | ⭐63 |
+| [bennyyip/plugpac.vim](https://github.com/bennyyip/plugpac.vim) | Plugpac is a plugin manger written in Vim9 based on minpac, provides vim-plug-like experience | ⭐64 |
 
 ## Quickfix
 
@@ -218,7 +219,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [Bakudankun/qline.vim](https://github.com/Bakudankun/qline.vim) | The quick, fully-customizable status line plugin written in cutting-edge Vim9 script. | ⭐44 |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17959 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17958 |
 | [kennypete/vim-tene](https://github.com/kennypete/vim-tene) | Vim 9 - teRNARY STATUSLIne | ⭐17 |
 | [ShayHill/vim9-limelight](https://github.com/ShayHill/vim9-limelight) | Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*. | ⭐10 |
 
@@ -228,6 +229,10 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [noscript/elevator.vim](https://github.com/noscript/elevator.vim) | Scrollbar for VIM | ⭐12 |
 | [nda-cunh/indent_rainbow_vim](https://github.com/nda-cunh/indent_rainbow_vim) | vim9 plugin for indent_rainbow from supravim | ⭐3 |
+| [Bakudankun/minimap.vim](https://github.com/Bakudankun/minimap.vim) | minimap plugin written in pure Vim9 script. | ⭐5 |
+| [Bakudankun/partycursor.vim](https://github.com/Bakudankun/partycursor.vim) | PARTY OR IDE | ⭐1 |
+| [nda-cunh/smear_cursor-vim](https://github.com/nda-cunh/smear_cursor-vim) | Fire your cursor ! | ⭐0 |
+| [Bakudankun/sqroller.vim](https://github.com/Bakudankun/sqroller.vim) | Scrollbar plugin for those who don't need foldcolumn. | ⭐0 |
 | [noscript/taberian.vim](https://github.com/noscript/taberian.vim) | Clickable tabs per VIM window | ⭐19 |
 | [mao-yining/undotree.vim](https://github.com/mao-yining/undotree.vim) | The undo history visualizer for VIM | ⭐4 |
 | [ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view) | A window is too small for your long buffer? Then, try this!   | ⭐6 |
@@ -251,7 +256,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐85 |
+| [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐86 |
 | [kennypete/.vimrc](https://github.com/kennypete/.vimrc) | My .vimrc | ⭐4 |
 | [bennyyip/dot-vim](https://github.com/bennyyip/dot-vim) | *No description provided.* | ⭐9 |
 | [mao-yining/dotfile_vim](https://codeberg.org/mao-yining/dotfile_vim) | *No description provided.* | ⭐1 |

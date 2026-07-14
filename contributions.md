@@ -57,6 +57,7 @@ https://github.com/ubaldot/vim-poptools
 # Games
 
 https://github.com/yegappan/battleship
+https://github.com/nda-cunh/Crumble.vim
 https://github.com/yegappan/game2048
 https://github.com/yegappan/minesweeper
 https://github.com/yegappan/nonogram
@@ -66,7 +67,6 @@ https://github.com/nda-cunh/SupraPacman
 https://github.com/nda-cunh/SupraSnake
 https://github.com/yegappan/tetris
 https://github.com/yegappan/tic-tac-toe
-https://github.com/nda-cunh/Crumble.vim
 
 # Guides
 
@@ -150,17 +150,17 @@ https://github.com/ShayHill/vim9-limelight
 # UI
 
 https://github.com/noscript/elevator.vim
-https://github.com/Bakudankun/sqroller.vim
 https://github.com/nda-cunh/indent_rainbow_vim
+https://github.com/Bakudankun/minimap.vim
+https://github.com/Bakudankun/partycursor.vim
+https://github.com/nda-cunh/smear_cursor-vim
+https://github.com/Bakudankun/sqroller.vim
 https://github.com/noscript/taberian.vim
 https://github.com/mao-yining/undotree.vim
 https://github.com/ubaldot/vim-extended-view
-https://github.com/Bakudankun/minimap.vim
 https://github.com/kennypete/vim-popped
 https://github.com/mattn/vim-smear-cursor
-https://github.com/nda-cunh/smear_cursor-vim
 https://github.com/kennypete/vim9-winswap
-https://github.com/Bakudankun/partycursor.vim
 
 # Vim Internal
 
