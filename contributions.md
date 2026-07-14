@@ -149,6 +149,7 @@ https://github.com/ShayHill/vim9-limelight
 # UI
 
 https://github.com/noscript/elevator.vim
+https://github.com/Bakudankun/sqroller.vim
 https://github.com/nda-cunh/indent_rainbow_vim
 https://github.com/noscript/taberian.vim
 https://github.com/mao-yining/undotree.vim
