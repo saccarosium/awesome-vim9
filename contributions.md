@@ -153,6 +153,7 @@ https://github.com/nda-cunh/indent_rainbow_vim
 https://github.com/noscript/taberian.vim
 https://github.com/mao-yining/undotree.vim
 https://github.com/ubaldot/vim-extended-view
+https://github.com/Bakudankun/minimap.vim
 https://github.com/kennypete/vim-popped
 https://github.com/mattn/vim-smear-cursor
 https://github.com/kennypete/vim9-winswap
