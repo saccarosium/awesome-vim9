@@ -156,6 +156,7 @@ https://github.com/mao-yining/undotree.vim
 https://github.com/ubaldot/vim-extended-view
 https://github.com/kennypete/vim-popped
 https://github.com/mattn/vim-smear-cursor
+https://github.com/nda-cunh/smear_cursor-vim
 https://github.com/kennypete/vim9-winswap
 https://github.com/Bakudankun/partycursor.vim
 
