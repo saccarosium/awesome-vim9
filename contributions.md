@@ -146,6 +146,7 @@ https://github.com/Bakudankun/qline.vim
 https://github.com/vim-airline/vim-airline
 https://github.com/kennypete/vim-tene
 https://github.com/ShayHill/vim9-limelight
+https://github.com/senioria/lines9
 
 # UI
 
