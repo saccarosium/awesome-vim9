@@ -83,13 +83,13 @@ https://github.com/gcanat/texpresso.vim9
 https://github.com/bfrg/vim-cmake-help
 https://github.com/ubaldot/vim-conda-activate
 https://github.com/habamax/vim-curl
+https://github.com/ubaldot/vim-git-box
 https://github.com/habamax/vim-ii
 https://github.com/bfrg/vim-jqplay
 https://github.com/ubaldot/vim-manim
 https://github.com/ubaldot/vim-microdebugger
 https://github.com/ubaldot/vim-replica
 https://github.com/wolandark/vimdict
-https://github.com/ubaldot/vim-git-box
 
 # Language Server Protocol
 
@@ -143,11 +143,11 @@ https://github.com/bfrg/vim-qf-preview
 
 # Statusline
 
+https://github.com/senioria/lines9
 https://github.com/Bakudankun/qline.vim
 https://github.com/vim-airline/vim-airline
 https://github.com/kennypete/vim-tene
 https://github.com/ShayHill/vim9-limelight
-https://github.com/senioria/lines9
 
 # UI
 
