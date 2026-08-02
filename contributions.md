@@ -176,6 +176,7 @@ https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug
 
 # Vimrc
 
+https://github.com/lacygoill/config/tree/main/.vim
 https://github.com/habamax/.vim
 https://github.com/kennypete/.vimrc
 https://github.com/bennyyip/dot-vim
