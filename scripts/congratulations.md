@@ -34,3 +34,5 @@
 2026-06-21T21:12:16.655533 - nda-cunh/SupraComment crossed a star threshold: 0 -> 1 stars.
 2026-06-22T17:23:02.829337 - jarkko/oulu.vim crossed a star threshold: 0 -> 1 stars.
 2026-07-01T11:37:17.208900 - mao-yining/dotfile_vim crossed a star threshold: 0 -> 1 stars.
+2026-08-02T15:33:14.163515 - micdzu/aalto.vim crossed a star threshold: 0 -> 1 stars.
+2026-08-02T15:33:14.166248 - ubaldot/vim-git-box crossed a star threshold: 0 -> 2 stars.

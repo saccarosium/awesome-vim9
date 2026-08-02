@@ -43,13 +43,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [DanBradbury/copilot-chat.vim](https://github.com/DanBradbury/copilot-chat.vim) | Copilot Chat for Vim | ⭐134 |
-| [greeschenko/vim9-ollama](https://github.com/greeschenko/vim9-ollama) | Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama | ⭐15 |
+| [greeschenko/vim9-ollama](https://github.com/greeschenko/vim9-ollama) | Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama | ⭐14 |
 
 ## Color Scheme
 
 |     |     |     |
 | --- | --- | --- |
-| [micdzu/aalto.vim](https://codeberg.org/micdzu/aalto.vim) |  A Vim (v9) colorscheme where structure becomes visible — and everything else fades away.  | ⭐0 |
+| [micdzu/aalto.vim](https://codeberg.org/micdzu/aalto.vim) |  A Vim (v9) colorscheme where structure becomes visible — and everything else fades away.  | ⭐1 |
 | [mao-yining/vim-catppuccin](https://codeberg.org/mao-yining/vim-catppuccin) | 🧋 Soothing pastel theme for Vim  | ⭐1 |
 | [zhixiao-zhang/vim-light-pink](https://github.com/zhixiao-zhang/vim-light-pink) | A vim color scheme reproduction of a vscode theme. | ⭐0 |
 | [kratuvid/vim9-gruvbox](https://github.com/kratuvid/vim9-gruvbox) | A vim9script port of Gruvbox | ⭐3 |
@@ -93,8 +93,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [jarkko/oulu.vim](https://codeberg.org/jarkko/oulu.vim) | *No description provided.* | ⭐1 |
 | [ycm/poplar.vim](https://github.com/ycm/poplar.vim) | Popup filetree and pinned files for vim9 | ⭐23 |
 | [nda-cunh/SupraTree](https://github.com/nda-cunh/SupraTree) | A tree for vim | ⭐1 |
-| [nda-cunh/SupraWater](https://github.com/nda-cunh/SupraWater) | 🌊 Vim9script plugin File-Manager like nvim-oil | ⭐3 |
-| [habamax/vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ⭐73 |
+| [nda-cunh/SupraWater](https://github.com/nda-cunh/SupraWater) | 🌊 Vim9script plugin File-Manager like nvim-oil | ⭐4 |
+| [habamax/vim-dir](https://github.com/habamax/vim-dir) | Vim file manager | ⭐74 |
 | [saccarosium/vim-netrw-salad](https://github.com/saccarosium/vim-netrw-salad) | A delicious salad to go with your beloved netrw. | ⭐2 |
 | [ubaldot/vim-open-recent](https://github.com/ubaldot/vim-open-recent) | Open recent files from a popup menu. Written in Vim9.  | ⭐3 |
 
@@ -102,7 +102,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Modern fuzzy finder for Vim with minimal dependencies | ⭐159 |
+| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) | Modern fuzzy finder for Vim with minimal dependencies | ⭐160 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12 |
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) | Minimal, fast, and extensible fuzzy finder. | ⭐90 |
 | [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) | Run fzy asynchronously in a Vim (popup) terminal-window | ⭐16 |
@@ -143,20 +143,20 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [bfrg/vim-cmake-help](https://github.com/bfrg/vim-cmake-help) | View CMake Documentation inside Vim | ⭐8 |
 | [ubaldot/vim-conda-activate](https://github.com/ubaldot/vim-conda-activate) | Activate Conda environments in Vim. | ⭐18 |
 | [habamax/vim-curl](https://github.com/habamax/vim-curl) | Simple curl wrapper for vim to work with REST API | ⭐6 |
-| [ubaldot/vim-git-box](https://github.com/ubaldot/vim-git-box) | A tiny Vim plugin for everyday git operations, inspired by lazygit | ⭐0 |
+| [ubaldot/vim-git-box](https://github.com/ubaldot/vim-git-box) | A tiny Vim plugin for everyday git operations, inspired by lazygit | ⭐2 |
 | [habamax/vim-ii](https://github.com/habamax/vim-ii) | IRC with suckless Irc it (ii) and vim | ⭐13 |
 | [bfrg/vim-jqplay](https://github.com/bfrg/vim-jqplay) | Run jq interactively in Vim | ⭐123 |
 | [ubaldot/vim-manim](https://github.com/ubaldot/vim-manim) | Render your manim-ations from Vim. | ⭐6 |
 | [ubaldot/vim-microdebugger](https://github.com/ubaldot/vim-microdebugger) | A tiny plugin on top of Termdebug for remote debugging (docker, MCUs, etc) | ⭐6 |
-| [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) | Enjoy Jupyter through Vim! | ⭐31 |
-| [wolandark/vimdict](https://github.com/wolandark/vimdict) | A Simple Wrapper Over The Dict CLI Utility For Vim9 | ⭐3 |
+| [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) | The ultimate REPL! | ⭐31 |
+| [wolandark/vimdict](https://github.com/wolandark/vimdict) | A Simple Wrapper Over The Dict CLI Utility For Vim9 | ⭐4 |
 
 ## Language Server Protocol
 
 |     |     |     |
 | --- | --- | --- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐2 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐754 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐756 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐18 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
 
@@ -188,7 +188,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [ubaldot/vim-helpme](https://github.com/ubaldot/vim-helpme) | Can't you remember stuff? Try this! | ⭐11 |
 | [ubaldot/vim-outline](https://github.com/ubaldot/vim-outline) | A simple outline sketcher for different filetypes. | ⭐23 |
 | [mags/vim-srt](https://codeberg.org/mags/vim-srt) | Vim9 subtitle filetype plugin | ⭐0 |
-| [ubaldot/vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid) | A little help for upgrading your scripts to vim9 language. | ⭐14 |
+| [ubaldot/vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid) | A little help for upgrading your scripts to vim9 language. | ⭐16 |
 | [lacygoill/vim9asm](https://github.com/lacygoill/vim9asm) | *No description provided.* | ⭐24 |
 | [sevehub/vim9psgrep](https://github.com/sevehub/vim9psgrep) | vim9psgrep is a Vim9script plugin that integrates the power of ripgrep with Vim, utilizing PowerShell scripts and Visual Basic popups  | ⭐1 |
 
@@ -198,13 +198,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [girishji/easyjump.vim](https://github.com/girishji/easyjump.vim) | The Vim motion you've always wanted. | ⭐19 |
 | [girishji/fFtT.vim](https://github.com/girishji/fFtT.vim) | More accurate f, F, t, T navigation in Vim. | ⭐10 |
-| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 | ⭐124 |
+| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) | modern alternative to easymotion written in vim9 | ⭐123 |
 
 ## Plugin Management
 
 |     |     |     |
 | --- | --- | --- |
-| [bennyyip/plugpac.vim](https://github.com/bennyyip/plugpac.vim) | Plugpac is a plugin manger written in Vim9 based on minpac, provides vim-plug-like experience | ⭐64 |
+| [bennyyip/plugpac.vim](https://github.com/bennyyip/plugpac.vim) | Plugpac is a plugin manger written in Vim9 based on minpac, provides vim-plug-like experience | ⭐63 |
 
 ## Quickfix
 
@@ -221,7 +221,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [senioria/lines9](https://github.com/senioria/lines9) | A statusline/tabline plugin written in vim9script | ⭐2 |
 | [Bakudankun/qline.vim](https://github.com/Bakudankun/qline.vim) | The quick, fully-customizable status line plugin written in cutting-edge Vim9 script. | ⭐44 |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17960 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17965 |
 | [kennypete/vim-tene](https://github.com/kennypete/vim-tene) | Vim 9 - teRNARY STATUSLIne | ⭐17 |
 | [ShayHill/vim9-limelight](https://github.com/ShayHill/vim9-limelight) | Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*. | ⭐10 |
 
@@ -258,9 +258,10 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
-| [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐86 |
+| [habamax/.vim](https://github.com/habamax/.vim) | Personal .vim | ⭐85 |
 | [kennypete/.vimrc](https://github.com/kennypete/.vimrc) | My .vimrc | ⭐4 |
+| [lacygoill/config](https://github.com/lacygoill/config/tree/main/.vim) | *No description provided.* | ⭐0 |
 | [bennyyip/dot-vim](https://github.com/bennyyip/dot-vim) | *No description provided.* | ⭐9 |
 | [mao-yining/dotfile_vim](https://codeberg.org/mao-yining/dotfile_vim) | *No description provided.* | ⭐1 |
-| [64-bitman/vim-config](https://github.com/64-bitman/vim-config) | *No description provided.* | ⭐1 |
+| [64-bitman/vim-config](https://github.com/64-bitman/vim-config) | *No description provided.* | ⭐2 |
 | [ShayHill/vimfiles](https://github.com/ShayHill/vimfiles) | my personal vimfiles for mostly Python dev on Windows | ⭐1 |
