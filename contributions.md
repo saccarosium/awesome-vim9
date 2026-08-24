@@ -98,6 +98,7 @@ https://github.com/DanielViberg/lsp
 https://github.com/yegappan/lsp/tree/main
 https://github.com/creativenull/vim-lspclient
 https://github.com/saccarosium/yegappan-lsp-settings
+https://github.com/h-east/lsp.vim
 
 # Libraries
 
