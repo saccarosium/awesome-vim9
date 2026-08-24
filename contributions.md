@@ -96,9 +96,9 @@ https://github.com/wolandark/vimdict
 
 https://github.com/DanielViberg/lsp
 https://github.com/yegappan/lsp/tree/main
+https://github.com/h-east/lsp.vim
 https://github.com/creativenull/vim-lspclient
 https://github.com/saccarosium/yegappan-lsp-settings
-https://github.com/h-east/lsp.vim
 
 # Libraries
 
@@ -108,6 +108,7 @@ https://codeberg.org/lifepillar/vim-devel
 
 # Markdown
 
+https://github.com/JosefAlbers/thumb
 https://github.com/ubaldot/vim-markdown-extras
 https://github.com/greeschenko/vimsidian
 

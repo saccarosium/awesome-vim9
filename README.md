@@ -149,7 +149,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [ubaldot/vim-manim](https://github.com/ubaldot/vim-manim) | Render your manim-ations from Vim. | ⭐6 |
 | [ubaldot/vim-microdebugger](https://github.com/ubaldot/vim-microdebugger) | A tiny plugin on top of Termdebug for remote debugging (docker, MCUs, etc) | ⭐6 |
 | [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) | The ultimate REPL! | ⭐32 |
-| [mao-yining/vim-signify](https://codeberg.org/mao-yining/vim-signify) | ➕ Show a diff using Vim its sign column. | ⭐0 |
+| [mao-yining/vim-signify](https://codeberg.org/mao-yining/vim-signify) | ➕ Show a diff using Vim its sign column. | ⭐1 |
 | [wolandark/vimdict](https://github.com/wolandark/vimdict) | A Simple Wrapper Over The Dict CLI Utility For Vim9 | ⭐4 |
 
 ## Language Server Protocol
@@ -158,6 +158,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐2 |
 | [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐764 |
+| [h-east/lsp.vim](https://github.com/h-east/lsp.vim) | A Language Server Protocol client for Vim, written in Vim9 script. | ⭐3 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐18 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
 
@@ -173,6 +174,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |     |     |     |
 | --- | --- | --- |
+| [JosefAlbers/thumb](https://github.com/JosefAlbers/thumb) | Popup images and render LaTeX directly in Vim | ⭐0 |
 | [ubaldot/vim-markdown-extras](https://github.com/ubaldot/vim-markdown-extras) | Modern note taking plugin with markdown focus | ⭐13 |
 | [greeschenko/vimsidian](https://github.com/greeschenko/vimsidian) | Minimalistic Obsidian-like note system inside Vim (Vim9script). | ⭐2 |
 

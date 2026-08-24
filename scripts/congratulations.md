@@ -37,3 +37,4 @@
 2026-08-02T15:33:14.163515 - micdzu/aalto.vim crossed a star threshold: 0 -> 1 stars.
 2026-08-02T15:33:14.166248 - ubaldot/vim-git-box crossed a star threshold: 0 -> 2 stars.
 2026-08-24T07:12:22.995237 - gh-tui-tools/gh-review.vim crossed a star threshold: 8 -> 11 stars.
+2026-08-24T12:18:42.400442 - mao-yining/vim-signify crossed a star threshold: 0 -> 1 stars.
