@@ -1,6 +1,7 @@
 # AI Assistants
 
 https://github.com/DanBradbury/copilot-chat.vim
+https://github.com/ShayHill/vim9-agent-context
 https://github.com/greeschenko/vim9-ollama
 
 # Color Scheme
@@ -8,7 +9,6 @@ https://github.com/greeschenko/vim9-ollama
 https://codeberg.org/micdzu/aalto.vim
 https://codeberg.org/mao-yining/vim-catppuccin
 https://github.com/zhixiao-zhang/vim-light-pink
-https://github.com/kratuvid/vim9-gruvbox
 
 # Command Execution
 
