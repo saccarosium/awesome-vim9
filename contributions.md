@@ -1,4 +1,4 @@
-# AI Assistants
+# AI
 
 https://github.com/DanBradbury/copilot-chat.vim
 https://github.com/ShayHill/vim9-agent-context
@@ -111,8 +111,8 @@ https://codeberg.org/lifepillar/vim-devel
 
 https://github.com/JosefAlbers/thumb
 https://github.com/ubaldot/vim-markdown-extras
-https://github.com/greeschenko/vimsidian
 https://github.com/russt/vimgem
+https://github.com/greeschenko/vimsidian
 
 # Miscellaneous
 

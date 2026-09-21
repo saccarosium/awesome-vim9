@@ -13,7 +13,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 ---
 
-- [AI Assistants](#ai-assistants)
+- [AI](#ai)
 - [Color Scheme](#color-scheme)
 - [Command Execution](#command-execution)
 - [Completion](#completion)
@@ -38,13 +38,14 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 ---
 
 
-## AI Assistants
+## AI
 
 |     |     |     |
 | --- | --- | --- |
 | [DanBradbury/copilot-chat.vim](https://github.com/DanBradbury/copilot-chat.vim) | Copilot Chat for Vim | ⭐134 |
 | [ShayHill/vim9-agent-context](https://github.com/ShayHill/vim9-agent-context) | Yank e.g., 'path/to/file#L24L66' to the system clipboard. | ⭐0 |
 | [greeschenko/vim9-ollama](https://github.com/greeschenko/vim9-ollama) | Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama | ⭐15 |
+| [russt/vimgem](https://github.com/russt/vimgem) | Explore AI models from your trusty Vim editor. | ⭐2 |
 
 ## Color Scheme
 
@@ -157,7 +158,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |     |     |     |
 | --- | --- | --- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) | A lightweight, pure vim9script lsp client | ⭐2 |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐779 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) | Language Server Protocol (LSP) plugin for Vim9 | ⭐780 |
 | [h-east/lsp.vim](https://github.com/h-east/lsp.vim) | A Language Server Protocol client for Vim, written in Vim9 script. | ⭐8 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) | A highly experimental lsp client for vim. Written in vim9script. | ⭐18 |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) | Quickstart configs for yeggapan lsp client | ⭐4 |
@@ -176,6 +177,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [JosefAlbers/thumb](https://github.com/JosefAlbers/thumb) | Popup images and render LaTeX directly in Vim | ⭐0 |
 | [ubaldot/vim-markdown-extras](https://github.com/ubaldot/vim-markdown-extras) | Modern note taking plugin with markdown focus | ⭐13 |
+| [russt/vimgem](https://github.com/russt/vimgem) | Explore AI models from your trusty Vim editor. | ⭐2 |
 | [greeschenko/vimsidian](https://github.com/greeschenko/vimsidian) | Minimalistic Obsidian-like note system inside Vim (Vim9script). | ⭐2 |
 
 ## Miscellaneous
@@ -224,7 +226,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [senioria/lines9](https://github.com/senioria/lines9) | A statusline/tabline plugin written in vim9script | ⭐2 |
 | [Bakudankun/qline.vim](https://github.com/Bakudankun/qline.vim) | The quick, fully-customizable status line plugin written in cutting-edge Vim9 script. | ⭐44 |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17965 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) | lean & mean status/tabline for vim that's light as air | ⭐17967 |
 | [kennypete/vim-tene](https://github.com/kennypete/vim-tene) | Vim 9 - teRNARY STATUSLIne | ⭐17 |
 | [ShayHill/vim9-limelight](https://github.com/ShayHill/vim9-limelight) | Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*. | ⭐10 |
 
