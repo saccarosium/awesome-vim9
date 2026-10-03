@@ -193,3 +193,4 @@ https://github.com/beamiter/vimrc/
 # Vim9 Script
 
 https://github.com/lacygoill/vim9asm
+https://github.com/neoclide/vimls-go
