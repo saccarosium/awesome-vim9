@@ -178,6 +178,13 @@ https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/
 https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52
 https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug
 
+# Vim9 Script
+
+https://github.com/ubaldot/vim9-conversion-aid
+https://github.com/lacygoill/vim9asm
+https://github.com/h-east/vim9ls
+https://github.com/neoclide/vimls-go
+
 # Vimrc
 
 https://github.com/habamax/.vim
@@ -188,10 +195,3 @@ https://codeberg.org/mao-yining/dotfile_vim
 https://github.com/64-bitman/vim-config
 https://github.com/ShayHill/vimfiles
 https://github.com/beamiter/vimrc/
-
-# Vim9 Script
-
-https://github.com/h-east/vim9ls
-https://github.com/lacygoill/vim9asm
-https://github.com/neoclide/vimls-go
-https://github.com/ubaldot/vim9-conversion-aid
