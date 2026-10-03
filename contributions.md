@@ -125,8 +125,6 @@ https://github.com/wolandark/vim-ez-emoji
 https://github.com/ubaldot/vim-helpme
 https://github.com/ubaldot/vim-outline
 https://codeberg.org/mags/vim-srt
-https://github.com/ubaldot/vim9-conversion-aid
-https://github.com/lacygoill/vim9asm
 https://github.com/sevehub/vim9psgrep
 
 # Motion
@@ -190,3 +188,10 @@ https://codeberg.org/mao-yining/dotfile_vim
 https://github.com/64-bitman/vim-config
 https://github.com/ShayHill/vimfiles
 https://github.com/beamiter/vimrc/
+
+# Vim9 Script
+
+https://github.com/h-east/vim9ls
+https://github.com/lacygoill/vim9asm
+https://github.com/neoclide/vimls-go
+https://github.com/ubaldot/vim9-conversion-aid
