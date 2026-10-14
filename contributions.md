@@ -111,7 +111,6 @@ https://codeberg.org/lifepillar/vim-devel
 
 https://github.com/JosefAlbers/thumb
 https://github.com/ubaldot/vim-markdown-extras
-https://github.com/russt/vimgem
 https://github.com/greeschenko/vimsidian
 
 # Miscellaneous
@@ -195,3 +194,7 @@ https://codeberg.org/mao-yining/dotfile_vim
 https://github.com/64-bitman/vim-config
 https://github.com/ShayHill/vimfiles
 https://github.com/beamiter/vimrc/
+
+# Writing
+
+https://github.com/Galvarcus/bartleby
