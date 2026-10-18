@@ -1,10 +1,10 @@
 # AI
 
+https://github.com/dfhx5694/akari.vim
 https://github.com/DanBradbury/copilot-chat.vim
 https://github.com/ShayHill/vim9-agent-context
 https://github.com/greeschenko/vim9-ollama
 https://github.com/russt/vimgem
-https://github.com/dfhx5694/akari.vim
 
 # Color Scheme
 
